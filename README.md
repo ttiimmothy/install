@@ -37,6 +37,7 @@ Software that needed to be installed
 - [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 
 ## Social Media
 
@@ -47,6 +48,7 @@ Software that needed to be installed
 
 - [Figma](https://www.figma.com/) - Illustrations, logos
 - [DrawSQL](https://drawsql.app/diagrams) - Illustration of SQL tables
+- [ChatGPT](https://chat.openai.com/)
 
 ## CLI
 
@@ -54,7 +56,7 @@ Software that needed to be installed
 - [`fish` shell](https://fishshell.com/)
   - Config: [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
 - [`bun`](https://bun.sh/) - Preferred package managers
-- [`unbuild`](https://github.com/unjs/unbuild) - Build Tools for Libraries
+- [`unbuild`](https://github.com/unjs/unbuild) - Build tools for libraries
 
 ## License
 
