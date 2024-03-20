@@ -12,7 +12,7 @@ Software that needed to be installed
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. [RustRover](https://www.jetbrains.com/rust/nextversion/)
 
-- VS Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
+- VS Code settings and extensions: [ttiimmothy/vscode-settings-extensions](https://github.com/ttiimmothy/vscode-settings-extensions)
 
 ## Terminal
 
