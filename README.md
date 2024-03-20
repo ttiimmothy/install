@@ -1,7 +1,7 @@
 # Install
 [![ci](https://github.com/ttiimmothy/install/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/Install/actions/workflows/ci.yml)
 
-Softwares that needed to be installed
+Software that needed to be installed
 
 ## Editor
 
