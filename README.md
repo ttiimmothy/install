@@ -53,7 +53,7 @@ Software that needed to be installed
 ## CLI
 
 - [`zsh`](https://zsh.org/)
-- [`fish` shell](https://fishshell.com/)
+- [`fish`](https://fishshell.com/)
   - Config: [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
 - [`bun`](https://bun.sh/) - Preferred package managers
 - [`unbuild`](https://github.com/unjs/unbuild) - Build tools for libraries
