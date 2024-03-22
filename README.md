@@ -30,6 +30,7 @@ Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https:/
 
 ## MacOS Productivity
 
+- (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Preferred browser
 - [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
@@ -37,7 +38,6 @@ Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https:/
 - [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
-- (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 
 ## Social Media
 
