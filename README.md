@@ -7,12 +7,12 @@ Software that needed to be installed
 
 - Editor
 
-1. [VS Code](https://code.visualstudio.com/)
+1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Intellij](https://www.jetbrains.com/idea/download/?section=mac)
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. [RustRover](https://www.jetbrains.com/rust/nextversion/)
 
-- VS Code settings and extensions: [ttiimmothy/vscode-settings-extensions](https://github.com/ttiimmothy/vscode-settings-extensions)
+Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
 
 ## Terminal
 
