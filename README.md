@@ -57,7 +57,7 @@ Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https:/
   - Config: [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
 - [`bun`](https://bun.sh/) - Preferred package managers
 - [`npm-check-updates`](https://github.com/raineorshine/npm-check-updates) - Upgrade dependencies
-  - [ ] `npm upgrade` cannot upgrade all the dependencies listed in `package.json`, not can do the major updates in **Greater Than or Equal To (>=)** `"react": ">=17.0.2"`
+  - [ ] `npm upgrade` cannot upgrade all the dependencies listed in `package.json`, only can do the major updates in **Greater Than or Equal To (>=)** `"react": ">=17.0.2"`
 - **The *below version ranges* cannot be upgraded by `npm upgrade` but can be upgraded by `npm-check-updates`, because `npm upgrade` cannot directly change the version in `package.json`**
   - Exact Version
   `"react": "17.0.2"`
