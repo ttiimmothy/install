@@ -56,6 +56,15 @@ Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https:/
 - [`fish`](https://fishshell.com/)
   - Config: [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
 - [`bun`](https://bun.sh/) - Preferred package managers
+- [`npm-check-updates`](https://github.com/raineorshine/npm-check-updates) - Upgrade dependencies
+  - [ ] `npm upgrade` cannot upgrade all the dependencies listed in `package.json`, not can do the major updates in **Greater Than or Equal To (>=)** `"react": ">=17.0.2"`
+- **The *below version ranges* cannot be upgraded by `npm upgrade` but can be upgraded by `npm-check-updates`, because `npm upgrade` cannot directly change the version in `package.json`**
+  - Exact Version
+  `"react": "17.0.2"`
+  - Caret (^)
+  `"react": "^17.0.2"`, this can only be compatible to `17.1.0`, but not `18.0.0`
+  - Tilde (~)
+  `"react": "~17.0.2"`, this allows any patch update to version `17.0.2`, such as `17.0.3`, but not minor updates like `17.1.0` or major updates like `18.0.0`
 - [`unbuild`](https://github.com/unjs/unbuild) - Build tools for libraries
 
 ## License
