@@ -11,6 +11,7 @@ Software that needed to be installed
 1. [Intellij](https://www.jetbrains.com/idea/download/?section=mac)
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. [RustRover](https://www.jetbrains.com/rust/nextversion/)
+1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 
 Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
 
