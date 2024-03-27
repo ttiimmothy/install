@@ -13,7 +13,8 @@ Software that needed to be installed
 1. [RustRover](https://www.jetbrains.com/rust/nextversion/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 
-Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
+- Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
+- Neovim settings: [ttiimmothy/nvim-dotfiles](https://github.com/ttiimmothy/dotfiles/tree/main/.config/nvim)
 
 ## Terminal
 
