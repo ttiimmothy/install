@@ -67,6 +67,7 @@ Software that needed to be installed
   `"react": "^17.0.2"`, this can only be compatible to `17.1.0`, but not `18.0.0`
   - Tilde (~)
   `"react": "~17.0.2"`, this allows any patch update to version `17.0.2`, such as `17.0.3`, but not minor updates like `17.1.0` or major updates like `18.0.0`
+- [`tree-cli`](https://github.com/MrRaindrop/tree-cli) - Tools for displaying project tree
 - [`unbuild`](https://github.com/unjs/unbuild) - Build tools for libraries
 
 ## License
