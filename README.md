@@ -34,11 +34,11 @@ Software that needed to be installed
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
-- [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Preferred browser
 - [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - [OBS](https://obsproject.com/) - Streaming and recording
 - [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Preferred browser
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
 
 ## Social Media
