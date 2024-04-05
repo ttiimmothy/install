@@ -3,6 +3,17 @@
 
 Software that needed to be installed
 
+## Table of content
+
+- [Editor](#editor)
+- [Terminal](#terminal)
+- [Microsoft edge extensions](#microsoft-edge-extensions)
+- [Macbook productivity](#macbook-productivity)
+- [Social media](#social-media)
+- [Useful websites](#useful-websites)
+- [Command line interface](#cli-command-line-interface)
+- [License](#license)
+
 ## Editor
 
 - Editor
@@ -20,7 +31,7 @@ Software that needed to be installed
 
 - [iTerm](https://iterm2.com/) - Terminal replacement
 
-## Microsoft Edge Extensions
+## Microsoft edge extensions
 
 - [AdGuard AdBlocker](https://microsoftedge.microsoft.com/addons/detail/adguard-adblocker/pdffkfellgipmhklpdmokmckkkfcopbh)
 - [React Developer Tools](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil)
@@ -30,7 +41,7 @@ Software that needed to be installed
 - [Vue.js devtools](https://microsoftedge.microsoft.com/addons/detail/vuejs-devtools/olofadcdnkkjdfgjcmjaadnlehnnihnl)
 - (**Optional**) [Wappalyzer](https://microsoftedge.microsoft.com/addons/detail/wappalyzer-technology-p/mnbndgmknlpdjdnjfmfcdjoegcckoikn) - **Don't** recommend installing because of the frequent updates
 
-## MacOS Productivity
+## Macbook productivity
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
@@ -41,23 +52,23 @@ Software that needed to be installed
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Preferred browser
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
 
-## Social Media
+## Social media
 
 - [Discord](https://discord.com/)
 - [Signal](https://signal.org/download/)
 
-## Useful Website
+## Useful websites
 
 - [Figma](https://www.figma.com/) - Illustrations, logos
 - [DrawSQL](https://drawsql.app/diagrams) - Illustration of SQL tables
 - [ChatGPT](https://chat.openai.com/)
 
-## CLI
+## CLI (Command line interface)
 
 - [`zsh`](https://zsh.org/)
 - [`fish`](https://fishshell.com/)
   - Config: [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
-- [`bun`](https://bun.sh/) - Preferred package managers
+- [`pnpm`](https://pnpm.io/) - Preferred package manager
 - [`npm-check-updates`](https://github.com/raineorshine/npm-check-updates) - Upgrade dependencies
   - [ ] `npm upgrade` cannot upgrade all the dependencies listed in `package.json`, only can do the major updates in **Greater Than or Equal To (>=)** `"react": ">=17.0.2"`
 - **The *below version ranges* cannot be upgraded by `npm upgrade` but can be upgraded by `npm-check-updates`, because `npm upgrade` cannot directly change the version in `package.json`**
