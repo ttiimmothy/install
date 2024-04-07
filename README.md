@@ -16,8 +16,6 @@ Software that needed to be installed
 
 ## Editor
 
-- Editor
-
 1. [RustRover](https://www.jetbrains.com/rust/nextversion/)
 1. [Intellij](https://www.jetbrains.com/idea/download/?section=mac)
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac)
