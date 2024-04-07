@@ -18,10 +18,11 @@ Software that needed to be installed
 
 - Editor
 
-1. [Visual Studio Code](https://code.visualstudio.com/)
+1. [RustRover](https://www.jetbrains.com/rust/nextversion/)
 1. [Intellij](https://www.jetbrains.com/idea/download/?section=mac)
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac)
-1. [RustRover](https://www.jetbrains.com/rust/nextversion/)
+1. [Sublime Text](https://www.sublimetext.com/)
+1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 
 - Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
@@ -38,7 +39,7 @@ Software that needed to be installed
 - [Redux Devtools](https://microsoftedge.microsoft.com/addons/detail/redux-devtools/nnkgneoiohoecpdiaponcejilbhhikei)
 - [Vue Telescope](https://microsoftedge.microsoft.com/addons/detail/vue-telescope/icgcillpgelpleniodgkmohgdmeogodl) - Check what the versions of vue and frameworks that the websites use
   - [github repo](https://github.com/nuxtlabs/vue-telescope-analyzer)
-- [Vue.js devtools](https://microsoftedge.microsoft.com/addons/detail/vuejs-devtools/olofadcdnkkjdfgjcmjaadnlehnnihnl)
+- [Vue.js Devtools](https://microsoftedge.microsoft.com/addons/detail/vuejs-devtools/olofadcdnkkjdfgjcmjaadnlehnnihnl)
 - (**Optional**) [Wappalyzer](https://microsoftedge.microsoft.com/addons/detail/wappalyzer-technology-p/mnbndgmknlpdjdnjfmfcdjoegcckoikn) - **Don't** recommend installing because of the frequent updates
 
 ## Macbook productivity
