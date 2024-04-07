@@ -20,6 +20,7 @@ Software that needed to be installed
 1. [Intellij](https://www.jetbrains.com/idea/download/?section=mac)
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. [Sublime Text](https://www.sublimetext.com/)
+1. [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 
@@ -53,7 +54,6 @@ Software that needed to be installed
 
 ## Social media
 
-- [Discord](https://discord.com/)
 - [Signal](https://signal.org/download/)
 
 ## Useful websites
