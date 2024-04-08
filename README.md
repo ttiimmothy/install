@@ -39,7 +39,13 @@ Software that needed to be installed
 - [Vue Telescope](https://microsoftedge.microsoft.com/addons/detail/vue-telescope/icgcillpgelpleniodgkmohgdmeogodl) - Check what the versions of vue and frameworks that the websites use
   - [github repo](https://github.com/nuxtlabs/vue-telescope-analyzer)
 - [Vue.js Devtools](https://microsoftedge.microsoft.com/addons/detail/vuejs-devtools/olofadcdnkkjdfgjcmjaadnlehnnihnl)
+- [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
 - (**Optional**) [Wappalyzer](https://microsoftedge.microsoft.com/addons/detail/wappalyzer-technology-p/mnbndgmknlpdjdnjfmfcdjoegcckoikn) - **Don't** recommend installing because of the frequent updates
+
+<!-- ## Safari extensions
+
+- [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html)
+- [Wappalyzer](https://www.wappalyzer.com/apps/) -->
 
 ## Macbook productivity
 
@@ -49,6 +55,7 @@ Software that needed to be installed
 - [OBS](https://obsproject.com/) - Streaming and recording
 - [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
+- [Safari](https://www.apple.com/ca/safari/) - Second preferred browser
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Preferred browser
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
 
