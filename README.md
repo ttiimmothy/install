@@ -37,8 +37,8 @@ Software that needed to be installed
 - [React Developer Tools](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil)
 - [Redux Devtools](https://microsoftedge.microsoft.com/addons/detail/redux-devtools/nnkgneoiohoecpdiaponcejilbhhikei)
 - [Vue Telescope](https://microsoftedge.microsoft.com/addons/detail/vue-telescope/icgcillpgelpleniodgkmohgdmeogodl) - Check what the versions of vue and frameworks that the websites use
-  - [github repo](https://github.com/nuxtlabs/vue-telescope-analyzer)
 - [Vue.js Devtools](https://microsoftedge.microsoft.com/addons/detail/vuejs-devtools/olofadcdnkkjdfgjcmjaadnlehnnihnl)
+- [Angular Devtools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
 - (**Optional**) [Wappalyzer](https://microsoftedge.microsoft.com/addons/detail/wappalyzer-technology-p/mnbndgmknlpdjdnjfmfcdjoegcckoikn) - **Don't** recommend installing because of the frequent updates
 
@@ -86,6 +86,10 @@ Software that needed to be installed
   `"react": "~17.0.2"`, this allows any patch update to version `17.0.2`, such as `17.0.3`, but not minor updates like `17.1.0` or major updates like `18.0.0`
 - [`tree-cli`](https://github.com/MrRaindrop/tree-cli) - Tools for displaying project tree
 - [`unbuild`](https://github.com/unjs/unbuild) - Build tools for libraries
+
+### You may interest
+
+- [Vue telescope github repository](https://github.com/nuxtlabs/vue-telescope-analyzer)
 
 ## License
 
