@@ -9,6 +9,7 @@ Software that needed to be installed
 - [Terminal](#terminal)
 - [Microsoft edge extensions](#microsoft-edge-extensions)
 - [Macbook productivity](#macbook-productivity)
+- [Software for development](#software-for-development)
 - [Social media](#social-media)
 - [Useful websites](#useful-websites)
 - [Command line interface](#cli-command-line-interface)
@@ -40,7 +41,7 @@ Software that needed to be installed
 - [Vue.js Devtools](https://microsoftedge.microsoft.com/addons/detail/vuejs-devtools/olofadcdnkkjdfgjcmjaadnlehnnihnl)
 - [Angular Devtools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
-- (**Optional**) [Wappalyzer](https://microsoftedge.microsoft.com/addons/detail/wappalyzer-technology-p/mnbndgmknlpdjdnjfmfcdjoegcckoikn) - **Don't** recommend installing because of the frequent updates
+- (**Optional**) [Wappalyzer](https://microsoftedge.microsoft.com/addons/detail/wappalyzer-technology-p/mnbndgmknlpdjdnjfmfcdjoegcckoikn) - **Don't** recommend installing because of the frequent updates, I haven't installed
 
 <!-- ## Safari extensions
 
@@ -53,11 +54,27 @@ Software that needed to be installed
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - [OBS](https://obsproject.com/) - Streaming and recording
-- [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
-- [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
+- [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
+- [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
+- [Karabiner-elements](https://karabiner-elements.pqrs.org/) - Keys modification
+- [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
+- [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
 - [Safari](https://www.apple.com/ca/safari/) - Second preferred browser
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Preferred browser
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- (**Optional**) [Aldente](https://apphousekitchen.com/pricing/?utm_campaign=bogsponsoring&utm_medium=youtube-description&utm_source=youtube) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health, I haven't installed
+- (**Optional**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**, I haven't installed
+- (**Optional**) [Keycastr](https://github.com/keycastr/keycastr) - Share your keystrokes, I haven't installed
+- (**Optional**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&utm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn, I haven't installed
+- (**Optional**) [Screen studio](https://www.screen.studio/?aff=RNK9p) - Good quality screen recording, I haven't installed
+- (**Optional**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**, I haven't installed
+- (**Optional**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement, I haven't installed
+- (**Optional**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - I haven't installed
+
+## Software for development
+
+- [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 
 ## Social media
 
@@ -90,6 +107,7 @@ Software that needed to be installed
 ### You may interest
 
 - [Vue telescope github repository](https://github.com/nuxtlabs/vue-telescope-analyzer)
+- [Proton vpn github repository](https://github.com/ProtonVPN/ios-mac-app)
 
 ## License
 
