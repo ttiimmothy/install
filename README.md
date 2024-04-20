@@ -59,6 +59,7 @@ Software that needed to be installed
 - [Karabiner-elements](https://karabiner-elements.pqrs.org/) - Keys modification
 - [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
+- [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - [Safari](https://www.apple.com/ca/safari/) - Second preferred browser
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Preferred browser
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
@@ -67,7 +68,6 @@ Software that needed to be installed
 - (**Optional**) [Keycastr](https://github.com/keycastr/keycastr) - Share your keystrokes, I haven't installed
 - (**Optional**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&utm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn, I haven't installed
 - (**Optional**) [Screen studio](https://www.screen.studio/?aff=RNK9p) - Good quality screen recording, I haven't installed
-- (**Optional**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**, I haven't installed
 - (**Optional**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement, I haven't installed
 - (**Optional**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - I haven't installed
 
