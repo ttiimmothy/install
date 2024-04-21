@@ -31,6 +31,8 @@ Software that needed to be installed
 ## Terminal
 
 - [iTerm](https://iterm2.com/) - Terminal replacement
+- Terminal
+- [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
 
 ## Microsoft edge extensions
 
