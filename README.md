@@ -81,6 +81,7 @@ Software that needed to be installed
 ## Social media
 
 - [Signal](https://signal.org/download/)
+- [Spotify](https://www.spotify.com/us/download/mac/)
 
 ## Useful websites
 
