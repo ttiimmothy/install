@@ -7,7 +7,7 @@ Software that needed to be installed
 
 - [Editor](#editor)
 - [Terminal](#terminal)
-- [Microsoft edge extensions](#microsoft-edge-extensions)
+- [Arc extensions](#arc-extensions)
 - [Macbook productivity](#macbook-productivity)
 - [Software for development](#software-for-development)
 - [Social media](#social-media)
@@ -34,16 +34,18 @@ Software that needed to be installed
 - Terminal
 - [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
 
-## Microsoft edge extensions
+## Arc extensions
 
-- [AdGuard AdBlocker](https://microsoftedge.microsoft.com/addons/detail/adguard-adblocker/pdffkfellgipmhklpdmokmckkkfcopbh)
-- [React Developer Tools](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil)
-- [Redux Devtools](https://microsoftedge.microsoft.com/addons/detail/redux-devtools/nnkgneoiohoecpdiaponcejilbhhikei)
-- [Vue Telescope](https://microsoftedge.microsoft.com/addons/detail/vue-telescope/icgcillpgelpleniodgkmohgdmeogodl) - Check what the versions of vue and frameworks that the websites use
-- [Vue.js Devtools](https://microsoftedge.microsoft.com/addons/detail/vuejs-devtools/olofadcdnkkjdfgjcmjaadnlehnnihnl)
+<!-- - [AdGuard AdBlocker](https://microsoftedge.microsoft.com/addons/detail/adguard-adblocker/pdffkfellgipmhklpdmokmckkkfcopbh) -->
+- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [Redux Devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+- [Vue Telescope](https://chromewebstore.google.com/detail/vue-telescope/neaebjphlfplgdhedjdhcnpjkndddbpd) - Check what the versions of vue and frameworks that the websites use
+- [Vue.js Devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 - [Angular Devtools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
-- (**Optional**) [Wappalyzer](https://microsoftedge.microsoft.com/addons/detail/wappalyzer-technology-p/mnbndgmknlpdjdnjfmfcdjoegcckoikn) - **Don't** recommend installing because of the frequent updates, I haven't installed
+- (**Optional**) [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
+- (**Optional**) [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - **Don't** recommend installing because of the frequent updates, I haven't installed
 
 <!-- ## Safari extensions
 
@@ -53,7 +55,8 @@ Software that needed to be installed
 ## Macbook productivity
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
-- (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
+- (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor, I haven't installed
+- (**Optional**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor, I haven't installed
 - [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - [OBS](https://obsproject.com/) - Streaming and recording
 - [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
@@ -62,8 +65,9 @@ Software that needed to be installed
 - [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
 - [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
-- [Safari](https://www.apple.com/ca/safari/) - Second preferred browser
-- [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Preferred browser
+- [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
+- [Arc](https://arc.net/) - Preferred browser
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Second preferred browser
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Aldente](https://apphousekitchen.com/pricing/?utm_campaign=bogsponsoring&utm_medium=youtube-description&utm_source=youtube) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health, I haven't installed
 - (**Optional**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**, I haven't installed
