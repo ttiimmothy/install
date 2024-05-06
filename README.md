@@ -8,7 +8,7 @@ Software that needed to be installed
 - [Editor](#editor)
 - [Terminal](#terminal)
 - [Arc extensions](#arc-extensions)
-- [Macbook productivity](#macbook-productivity)
+- [Macbook productivity](#software-related-to-macbook-productivity)
 - [Software for development](#software-for-development)
 - [Social media](#social-media)
 - [Useful websites](#useful-websites)
@@ -45,20 +45,18 @@ Software that needed to be installed
 - [Angular Devtools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
 - [SponsorBlock for Youtube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Block the sponsor part of youtube videos
-- [DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj) - Remove the exaggerated thumbnails and titles for youtube videos
 - (**Optional**) [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
-- (**Optional**) [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - **Don't** recommend installing because of the frequent updates, I haven't installed
+- (**Optional, I haven't installed**) [DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj) - Remove the exaggerated thumbnails and titles for youtube videos
+- (**Optional, I haven't installed**) [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - **Don't** recommend installing because of the frequent updates
 
 <!-- ## Safari extensions
 
 - [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html)
 - [Wappalyzer](https://www.wappalyzer.com/apps/) -->
 
-## Macbook productivity
+## Software related to macbook productivity
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
-- (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor, I haven't installed
-- (**Optional**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor, I haven't installed
 - [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - [OBS](https://obsproject.com/) - Streaming and recording
 - [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
@@ -72,13 +70,15 @@ Software that needed to be installed
 - [Arc](https://arc.net/) - Preferred browser
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40) - Second preferred browser
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
-- (**Optional**) [Aldente](https://apphousekitchen.com/pricing/?utm_campaign=bogsponsoring&utm_medium=youtube-description&utm_source=youtube) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health, I haven't installed
-- (**Optional**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**, I haven't installed
-- (**Optional**) [Keycastr](https://github.com/keycastr/keycastr) - Share your keystrokes, I haven't installed
-- (**Optional**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&utm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn, I haven't installed
-- (**Optional**) [Screen studio](https://www.screen.studio/?aff=RNK9p) - Good quality screen recording, I haven't installed
-- (**Optional**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement, I haven't installed
-- (**Optional**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - I haven't installed
+- (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
+- (**Optional, I haven't installedl**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
+- (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/pricing/?utm_campaign=bogsponsoring&utm_medium=youtube-description&utm_source=youtube) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
+- (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
+- (**Optional, I haven't installed**) [Keycastr](https://github.com/keycastr/keycastr) - Share your keystrokes
+- (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&utm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
+- (**Optional, I haven't installed**) [Screen studio](https://www.screen.studio/?aff=RNK9p) - Good quality screen recording
+- (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
+- (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases)
 
 ## Software for development
 
