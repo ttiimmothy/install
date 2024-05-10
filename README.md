@@ -30,9 +30,11 @@ Software that needed to be installed
 
 ## Terminal
 
-- [iTerm](https://iterm2.com/) - Terminal replacement
+- [iTerm](https://iterm2.com/)
 - Terminal
 - [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
+- [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
+- [Alacritty](https://alacritty.org/)
 
 ## Arc extensions
 
