@@ -34,7 +34,7 @@ Software that needed to be installed
 - Terminal
 - [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
 - [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
-- [Alacritty](https://alacritty.org/)
+- (**Optional, I haven't installed**) [Alacritty](https://alacritty.org/)
 
 ## Arc extensions
 
