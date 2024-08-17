@@ -22,8 +22,8 @@ Software that needed to be installed
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. [Sublime Text](https://www.sublimetext.com/)
 1. [Visual Studio Code](https://code.visualstudio.com/)
-1. [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
+1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 
 - Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
 - Neovim settings: [ttiimmothy/nvim-dotfiles](https://github.com/ttiimmothy/dotfiles/tree/main/.config/nvim)
@@ -32,8 +32,8 @@ Software that needed to be installed
 
 - [iTerm](https://iterm2.com/)
 - Terminal
-- [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
-- [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
+- (**Optional, I haven't installed**) [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
+- (**Optional, I haven't installed**) [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
 - (**Optional, I haven't installed**) [Alacritty](https://alacritty.org/)
 
 ## Arc extensions
