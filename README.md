@@ -46,7 +46,8 @@ Software that needed to be installed
 - [Vue.js Devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 - [Angular Devtools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
-- [SponsorBlock for Youtube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Block the sponsor part of youtube videos
+- [SponsorBlock for YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Block the sponsor part of youtube videos
+- [Return YouTube Dislike](https://chromewebstore.google.com/detail/gebbhagfogifgggkldgodflihgfeippi)
 - (**Optional**) [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
 - (**Optional, I haven't installed**) [DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj) - Remove the exaggerated thumbnails and titles for youtube videos
 - (**Optional, I haven't installed**) [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - **Don't** recommend installing because of the frequent updates
