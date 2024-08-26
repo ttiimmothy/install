@@ -66,13 +66,13 @@ Software that needed to be installed
 - [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - [Karabiner-elements](https://karabiner-elements.pqrs.org/) - Keys modification
 - [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
-- [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
 - [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
-- [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- (**Optional, I haven't installed**) [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
+- (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/pricing/?utm_campaign=bogsponsoring&utm_medium=youtube-description&utm_source=youtube) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
@@ -82,6 +82,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Screen studio](https://www.screen.studio/?aff=RNK9p) - Good quality screen recording
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases)
+- (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 
 ## Software for development
 
