@@ -17,12 +17,12 @@ Software that needed to be installed
 
 ## Editor
 
-1. [RustRover](https://www.jetbrains.com/rust/nextversion/)
-1. [Intellij](https://www.jetbrains.com/idea/download/?section=mac)
-1. [Pycharm](https://www.jetbrains.com/pycharm/download/?section=mac)
-1. [Sublime Text](https://www.sublimetext.com/)
+1. [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
+1. [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
+1. (**Optional, I haven't installed**) [RustRover](https://www.jetbrains.com/rust/nextversion/)
+1. (**Optional, I haven't installed**) [Sublime Text](https://www.sublimetext.com/)
 1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 
 - Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
