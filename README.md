@@ -24,6 +24,7 @@ Software that needed to be installed
 1. (**Optional, I haven't installed**) [RustRover](https://www.jetbrains.com/rust/nextversion/)
 1. (**Optional, I haven't installed**) [Sublime Text](https://www.sublimetext.com/)
 1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
+1. (**Optional, I haven't installed**) [Cursor](https://www.cursor.com/) - AI editor built on Vscode
 
 - Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
 - Neovim settings: [ttiimmothy/nvim-dotfiles](https://github.com/ttiimmothy/dotfiles/tree/main/.config/nvim)
