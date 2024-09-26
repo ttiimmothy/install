@@ -75,6 +75,7 @@ Software that needed to be installed
 - [Arc](https://arc.net/) - Preferred browser
 - [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [DaVinci Resolve] (https://www.blackmagicdesign.com/products/davinciresolve/edit) - Video editor
