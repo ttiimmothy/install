@@ -102,7 +102,7 @@ Software that needed to be installed
 ## Social media
 
 - (**Optional, I haven't installed**) [Signal](https://signal.org/download/)
-<!-- - (**Optional, I haven't installed) [Spotify](https://www.spotify.com/us/download/mac/) -->
+- (**Optional, I haven't installed**) [Spotify](https://www.spotify.com/us/download/mac/)
 
 ## Useful websites
 
