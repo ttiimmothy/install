@@ -96,11 +96,11 @@ Software that needed to be installed
 ## Software for development
 
 - [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
-- (**Optional, I haven't installed) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 
 ## Social media
 
-- (**Optional, I haven't installed) [Signal](https://signal.org/download/)
+- (**Optional, I haven't installed**) [Signal](https://signal.org/download/)
 <!-- - (**Optional, I haven't installed) [Spotify](https://www.spotify.com/us/download/mac/) -->
 
 ## Useful websites
