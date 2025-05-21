@@ -20,8 +20,8 @@ Software that needed to be installed
 1. [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
 1. [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. [Visual Studio Code](https://code.visualstudio.com/)
-1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
+1. (**Optional, I haven't installed**) [Cursor](https://www.cursor.com/) - AI editor built on Vscode
 1. (**Optional, I haven't installed**) [RustRover](https://www.jetbrains.com/rust/nextversion/)
 1. (**Optional, I haven't installed**) [Sublime Text](https://www.sublimetext.com/)
 1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
@@ -74,10 +74,10 @@ Software that needed to be installed
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
-- [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
-- [Obsidian](https://obsidian.md) - Taking notes
+- (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
+- (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) - Video editor
