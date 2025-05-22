@@ -21,7 +21,7 @@ Software that needed to be installed
 1. [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
-1. (**Optional, I haven't installed**) [Cursor](https://www.cursor.com/) - AI editor built on Vscode
+1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
 1. (**Optional, I haven't installed**) [RustRover](https://www.jetbrains.com/rust/nextversion/)
 1. (**Optional, I haven't installed**) [Sublime Text](https://www.sublimetext.com/)
 1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
@@ -73,6 +73,7 @@ Software that needed to be installed
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
+- [Zen Browser](https://zen-browser.app/)
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
