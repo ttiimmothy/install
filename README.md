@@ -78,13 +78,13 @@ Software that needed to be installed
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
+- (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) - Video editor
 - (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
-- (**Optional, I haven't installed**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/pricing/?utm_campaign=bogsponsoring&utm_medium=youtube-description&utm_source=youtube) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
