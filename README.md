@@ -98,8 +98,8 @@ Software that needed to be installed
 
 ## Software for development
 
-- [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
-- (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 
 ## Social media
 
