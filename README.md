@@ -57,11 +57,6 @@ Software that needed to be installed
 - (**optional, i haven't installed**) [DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj) - Remove the exaggerated thumbnails and titles for youtube videos
 - (**Optional, I haven't installed**) [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - **Don't** recommend installing because of the frequent updates
 
-<!-- ## Safari extensions
-
-- [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html)
-- [Wappalyzer](https://www.wappalyzer.com/apps/) -->
-
 ## Software related to macbook productivity
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
@@ -101,6 +96,7 @@ Software that needed to be installed
 ## Software for development
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 
 ## Social media
