@@ -31,12 +31,12 @@ Software that needed to be installed
 
 ## Terminal
 
-- [iTerm](https://iterm2.com/)
 - Terminal
-- (**Optional**) [Ghostty](https://ghostty.org/download)
-- (**Optional, I haven't installed**) [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
+- [iTerm](https://iterm2.com/)
+- [Ghostty](https://ghostty.org/download)
+- (**Optional**) [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
+- (**Optional**) [Alacritty](https://alacritty.org/)
 - (**Optional, I haven't installed**) [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
-- (**Optional, I haven't installed**) [Alacritty](https://alacritty.org/)
 - (**Optional, I haven't installed**) [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
 
 ## Arc extensions
