@@ -96,6 +96,7 @@ Software that needed to be installed
 ## Software for development
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- (**Optional**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 
