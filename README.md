@@ -78,6 +78,7 @@ Software that needed to be installed
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
+- (**Optional**) [Figma](https://www.figma.com/downloads/) 
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
