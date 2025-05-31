@@ -100,9 +100,9 @@ Software that needed to be installed
 - (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
-- (**Optional**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
+- (**Optional, I haven't installed**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
 
 ## Social media
 
