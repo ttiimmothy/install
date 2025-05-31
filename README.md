@@ -60,6 +60,7 @@ Software that needed to be installed
 ## Software related to macbook productivity
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
+- [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - [OBS](https://obsproject.com/) - Streaming and recording
 - [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
@@ -97,6 +98,9 @@ Software that needed to be installed
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - (**Optional**) [Blender](https://www.blender.org/download/)
+- (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
+- (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
+- (**Optional**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
 
