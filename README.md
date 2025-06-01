@@ -61,8 +61,6 @@ Software that needed to be installed
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
-- [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
-- [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - [Karabiner-elements](https://karabiner-elements.pqrs.org/) - Keys modification
 - [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
@@ -70,7 +68,7 @@ Software that needed to be installed
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
-- [Zen Browser](https://zen-browser.app/)
+- [Zen browser](https://zen-browser.app/)
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
@@ -78,6 +76,8 @@ Software that needed to be installed
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
+- (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
+- (**Optional, I haven't installed**) [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - (**Optional, I haven't installed**) [Figma](https://www.figma.com/downloads/) 
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
@@ -92,7 +92,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
 - (**Optional, I haven't installed**) [Keycastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
-- (**Optional, I haven't installed**) [Screen studio](https://www.screen.studio/?aff=RNK9p) - Good quality screen recording
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases)
 
