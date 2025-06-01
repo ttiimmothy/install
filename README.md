@@ -64,7 +64,7 @@ Software that needed to be installed
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
-- [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - need to be installed with **Karabiner-Elements**
+- [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - need to be installed with **Karabiner-Elements**, I tried not to install this, but it doesn't work
 - [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
