@@ -35,7 +35,7 @@ Software that needed to be installed
 - [iTerm](https://iterm2.com/)
 - [Ghostty](https://ghostty.org/download)
 - (**Optional**) [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
-- (**Optional**) [Alacritty](https://alacritty.org/)
+- (**Optional, I haven't installed**) [Alacritty](https://alacritty.org/)
 - (**Optional, I haven't installed**) [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
 - (**Optional, I haven't installed**) [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
 
@@ -98,12 +98,12 @@ Software that needed to be installed
 
 ## Software for development
 
-- (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
+- (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional, I haven't installed**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
 
