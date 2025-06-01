@@ -61,10 +61,11 @@ Software that needed to be installed
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
-- [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
-- [Karabiner-elements](https://karabiner-elements.pqrs.org/) - Keys modification
-- [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
+- [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
+- [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - need to be installed with **Karabiner-Elements**
+- [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
@@ -97,12 +98,12 @@ Software that needed to be installed
 
 ## Software for development
 
+- (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
-- (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
-- (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional, I haven't installed**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
 
