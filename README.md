@@ -75,8 +75,8 @@ Software that needed to be installed
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
-- (**Optional**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
+- (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - (**Optional, I haven't installed**) [Figma](https://www.figma.com/downloads/) 
