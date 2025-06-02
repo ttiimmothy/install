@@ -61,7 +61,6 @@ Software that needed to be installed
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
-- [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
 - [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - need to be installed with **Karabiner-Elements**, I tried not to install this, but it doesn't work
@@ -76,6 +75,7 @@ Software that needed to be installed
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
+- (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
