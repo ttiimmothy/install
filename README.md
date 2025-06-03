@@ -63,7 +63,6 @@ Software that needed to be installed
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
-- [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - need to be installed with **Karabiner-Elements**, I tried not to install this, but it doesn't work
 - [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
@@ -77,6 +76,7 @@ Software that needed to be installed
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
+- (**Optional, I haven't installed**) [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - installed with **Karabiner-Elements**, can be uninstalled 
 - (**Optional, I haven't installed**) [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
