@@ -22,7 +22,7 @@ Software that needed to be installed
 1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
-1. (**Optional**) [Windsurf](https://windsurf.com/editor)
+1. (**Optional, I haven't installed**) [Windsurf](https://windsurf.com/editor)
 1. (**Optional, I haven't installed**) [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
 1. (**Optional, I haven't installed**) [RustRover](https://www.jetbrains.com/rust/nextversion/)
 1. (**Optional, I haven't installed**) [Sublime Text](https://www.sublimetext.com/)
@@ -100,9 +100,11 @@ Software that needed to be installed
 ## Software for development
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- (**Optional**) [Expo Orbitf](https://expo.dev/orbit)
 - (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
+- (**Optional**) [ChatGPT](https://openai.com/chatgpt/download/) 
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional, I haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
