@@ -63,7 +63,6 @@ Software that needed to be installed
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
-- [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
@@ -73,15 +72,16 @@ Software that needed to be installed
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
-- (**Optional**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
-- (**Optional, I haven't installed**) [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - installed with **Karabiner-Elements**, can be uninstalled 
+- (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
+- (**optional, i haven't installed**) [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - installed with **Karabiner-Elements**, can be uninstalled 
 - (**Optional, I haven't installed**) [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
+- (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional, I haven't installed**) [Figma](https://www.figma.com/downloads/) 
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
