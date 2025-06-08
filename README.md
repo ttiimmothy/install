@@ -73,9 +73,10 @@ Software that needed to be installed
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
-- (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
-- (**Optional**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
+- (**Optional**) [Obsidian](https://obsidian.md) - Taking notes
+- (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
+- (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
 - (**Optional, I haven't installed**) [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - installed with **Karabiner-Elements**, can be uninstalled 
 - (**Optional, I haven't installed**) [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
