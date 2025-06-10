@@ -68,6 +68,7 @@ Software that needed to be installed
 - [Arc](https://arc.net/) - Preferred browser
 - [Zen browser](https://zen-browser.app/)
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- (**Optional**) [LinearMouse](https://linearmouse.app/) 
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
@@ -75,8 +76,10 @@ Software that needed to be installed
 - (**Optional**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
-- (**Optional**) [Aldente](https://apphousekitchen.com/pricing/?utm_campaign=bogsponsoring&utm_medium=youtube-description&utm_source=youtube) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
+- (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
+- (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/) 
+- (**optional, i haven't installed**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used 
 - (**optional, i haven't installed**) [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - installed with **Karabiner-Elements**, can be uninstalled 
 - (**Optional, I haven't installed**) [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
