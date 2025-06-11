@@ -75,6 +75,7 @@ Software that needed to be installed
 - (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
+- (**Optional**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
 - (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
 - (**optional, i haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
