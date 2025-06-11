@@ -76,7 +76,7 @@ Software that needed to be installed
 - (**Optional**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
-- (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
+- (**optional, i haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/) 
 - (**optional, i haven't installed**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used 
