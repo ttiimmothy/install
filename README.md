@@ -19,8 +19,11 @@ Software that needed to be installed
 
 1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
 1. [Visual Studio Code](https://code.visualstudio.com/)
+1. [Kiro](https://kiro.dev/downloads/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
+1. (**Optional**) [Zed](https://zed.dev/)
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
+1. (**Optional**) [Android Studio](https://developer.android.com/studio)
 1. (**Optional, I haven't installed**) [Windsurf](https://windsurf.com/editor)
 1. (**Optional, I haven't installed**) [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. (**Optional, I haven't installed**) [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
@@ -61,7 +64,6 @@ Software that needed to be installed
 ## Software related to macbook productivity
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
-- [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
@@ -72,11 +74,10 @@ Software that needed to be installed
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
-- (**Optional**) [Final Cut Pro](https://www.apple.com/ca/final-cut-pro/) - Video editor
-- (**Optional**) [Obsidian](https://obsidian.md) - Taking notes
-- (**Optional**) [Screen Studio](https://screen.studio/download) - Recording
-- (**Optional**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
-- (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
+- (**Optional**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
+- (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
+- (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
 - (**optional, i haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/) 
@@ -87,8 +88,8 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
-- (**Optional, I haven't installed**) [Figma](https://www.figma.com/downloads/) 
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
+- (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) 
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
@@ -105,20 +106,26 @@ Software that needed to be installed
 ## Software for development
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
-- (**Optional**) [Expo Orbitf](https://expo.dev/orbit)
+- (**Optional**) [Podman Desktop](https://podman.io/) 
 - (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
-- (**Optional**) [ChatGPT](https://openai.com/chatgpt/download/) 
+- (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
+- (**Optional**) [Linear](https://linear.app/download) 
+- (**Optional, I haven't installed**) [Github Desktop](https://desktop.github.com/download/) 
+- (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/) 
+- (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
+- (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
-- (**Optional, I haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional, I haven't installed**) [LM Studio](https://lmstudio.ai/) - Large langauge model interface (desktop application), always change my config file to add the path variable, which is very annoying, so I uninstall it
 - (**Optional, I haven't installed**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
+- (**Optional, I haven't installed**) [Figma](https://www.figma.com/downloads/) 
 
 ## Social media
 
-- (**Optional, I haven't installed**) [Signal](https://signal.org/download/)
+- (**Optional**) [Signal](https://signal.org/download/)
+- (**Optional**) [Telegram](https://macos.telegram.org/)
 - (**Optional, I haven't installed**) [Spotify](https://www.spotify.com/us/download/mac/)
 
 ## Useful websites
