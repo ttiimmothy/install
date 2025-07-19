@@ -21,13 +21,13 @@ Software that needed to be installed
 1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Kiro](https://kiro.dev/downloads/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
-1. (**Optional**) [Zed](https://zed.dev/)
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. (**Optional**) [Android Studio](https://developer.android.com/studio)
-1. (**Optional, I haven't installed**) [Windsurf](https://windsurf.com/editor)
 1. (**Optional, I haven't installed**) [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. (**Optional, I haven't installed**) [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
 1. (**Optional, I haven't installed**) [RustRover](https://www.jetbrains.com/rust/nextversion/)
+1. (**Optional, I haven't installed**) [Zed](https://zed.dev/)
+1. (**Optional, I haven't installed**) [Windsurf](https://windsurf.com/editor)
 1. (**Optional, I haven't installed**) [Sublime Text](https://www.sublimetext.com/)
 
 - Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
