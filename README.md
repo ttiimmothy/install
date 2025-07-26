@@ -22,7 +22,7 @@ Software that needed to be installed
 1. [Kiro](https://kiro.dev/downloads/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
-1. (**Optional**) [Android Studio](https://developer.android.com/studio)
+1. (**Optional, I haven't installed**) [Android Studio](https://developer.android.com/studio)
 1. (**Optional, I haven't installed**) [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. (**Optional, I haven't installed**) [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
 1. (**Optional, I haven't installed**) [RustRover](https://www.jetbrains.com/rust/nextversion/)
@@ -75,6 +75,7 @@ Software that needed to be installed
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
+- (**Optional**) [NordVPN](https://nordvpn.com/download/mac/) 
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
@@ -108,10 +109,13 @@ Software that needed to be installed
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - (**Optional**) [Podman Desktop](https://podman.io/) 
 - (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
+- (**Optional**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional**) [Linear](https://linear.app/download) 
+- (**Optional**) [AnythingLLM](https://anythingllm.com/desktop) 
+- (**Optional**) [Langflow](https://www.langflow.org/desktop) 
 - (**Optional, I haven't installed**) [Github Desktop](https://desktop.github.com/download/) 
 - (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/) 
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
