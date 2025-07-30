@@ -115,7 +115,7 @@ Software that needed to be installed
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional**) [Linear](https://linear.app/download) 
 - (**Optional**) [AnythingLLM](https://anythingllm.com/desktop) 
-- (**Optional**) [Langflow](https://www.langflow.org/desktop) 
+- (**Optional, I haven't installed**) [Langflow](https://www.langflow.org/desktop) 
 - (**Optional, I haven't installed**) [Github Desktop](https://desktop.github.com/download/) 
 - (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/) 
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
