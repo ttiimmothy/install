@@ -69,8 +69,8 @@ Software that needed to be installed
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
 - [Zen browser](https://zen-browser.app/)
+- [LinearMouse](https://linearmouse.app/) 
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
-- (**Optional**) [LinearMouse](https://linearmouse.app/) 
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
@@ -109,20 +109,19 @@ Software that needed to be installed
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - (**Optional**) [Podman Desktop](https://podman.io/) 
 - (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
-- (**Optional**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional**) [Blender](https://www.blender.org/download/)
+- (**Optional**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional**) [Linear](https://linear.app/download) 
 - (**Optional**) [AnythingLLM](https://anythingllm.com/desktop) 
 - (**Optional**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
-- (**Optional, I haven't installed**) [Langflow](https://www.langflow.org/desktop) 
-- (**Optional, I haven't installed**) [Github Desktop](https://desktop.github.com/download/) 
+- (**Optional**) [Langflow](https://www.langflow.org/desktop) 
+- (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
+- (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/) 
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
-- (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
-- (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional, I haven't installed**) [LM Studio](https://lmstudio.ai/) - Large langauge model interface (desktop application), always change my config file to add the path variable, which is very annoying, so I uninstall it
 - (**Optional, I haven't installed**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional, I haven't installed**) [Figma](https://www.figma.com/downloads/) 
