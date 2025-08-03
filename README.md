@@ -35,10 +35,10 @@ Software that needed to be installed
 
 ## Terminal
 
-- Terminal
+- Terminal - Mac default terminal
 - [Ghostty](https://ghostty.org/download)
-- (**Optional**) [iTerm](https://iterm2.com/)
 - (**Optional**) [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
+- (**Optional, I haven't installed**) [iTerm](https://iterm2.com/)
 - (**Optional, I haven't installed**) [Alacritty](https://alacritty.org/)
 - (**Optional, I haven't installed**) [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
 - (**Optional, I haven't installed**) [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
