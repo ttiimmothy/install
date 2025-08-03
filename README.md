@@ -45,15 +45,16 @@ Software that needed to be installed
 
 ## Arc extensions
 
-- [Redux Devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 - [Adblock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
 - [Return YouTube Dislike](https://chromewebstore.google.com/detail/gebbhagfogifgggkldgodflihgfeippi)
+- (**Optional**) [Redux Devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+- (**Optional**) [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
+- (**Optional**) [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Add custom css to the website
 - (**Optional, I haven't installed**) [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - (**Optional, I haven't installed**) [Vue Telescope](https://chromewebstore.google.com/detail/vue-telescope/neaebjphlfplgdhedjdhcnpjkndddbpd) - Check what the versions of vue and frameworks that the websites use
 - (**Optional, I haven't installed**) [Vue.js Devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 - (**Optional, I haven't installed**) [Angular Devtools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
-- (**Optional, I haven't installed**)[SponsorBlock for YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Block the sponsor part of youtube videos
-- (**Optional, I haven't installed**) [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
+- (**Optional, I haven't installed**) [SponsorBlock for YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Block the sponsor part of youtube videos
 - (**Optional, I haven't installed**) [Apollo Client Devtools](https://chromewebstore.google.com/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm)
 - (**Optional, I haven't installed**) [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - (**Optional, I haven't installed**) [Adblocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?pli=1)
@@ -74,8 +75,8 @@ Software that needed to be installed
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
-- (**Optional**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/) 
+- (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
