@@ -71,10 +71,11 @@ Software that needed to be installed
 - [Arc](https://arc.net/) - Preferred browser
 - [Zen browser](https://zen-browser.app/)
 - [LinearMouse](https://linearmouse.app/) 
-- [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
+- (**Optional**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/) 
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
