@@ -121,6 +121,7 @@ Software that needed to be installed
 - (**Optional**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
 - (**Optional**) [Langflow](https://www.langflow.org/desktop) 
 - (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
+- (**Optional**) [Postman](https://www.postman.com/downloads/) 
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/) 
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
