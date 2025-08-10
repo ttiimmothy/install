@@ -78,11 +78,11 @@ Software that needed to be installed
 - (**Optional**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor
 - (**Optional**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/) 
+- (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
-- (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
-- (**optional, i haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/) 
 - (**optional, i haven't installed**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used 
