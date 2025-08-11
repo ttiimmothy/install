@@ -124,6 +124,7 @@ Software that needed to be installed
 - (**Optional**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
 - (**Optional**) [Langflow](https://www.langflow.org/desktop) 
 - (**Optional**) [Postman](https://www.postman.com/downloads/) 
+- (**Optional**) [Insomnia](https://insomnia.rest/) 
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
