@@ -125,6 +125,7 @@ Software that needed to be installed
 - (**Optional**) [Langflow](https://www.langflow.org/desktop) 
 - (**Optional**) [Postman](https://www.postman.com/downloads/) 
 - (**Optional**) [Insomnia](https://insomnia.rest/) 
+- (**Optional**) [gpt4all](https://atlas.nomic.ai/) 
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
