@@ -80,6 +80,7 @@ Software that needed to be installed
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/) 
 - (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
+- (**Optional**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
@@ -93,7 +94,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
-- (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) 
+- (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) - AI video editor 
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
@@ -102,7 +103,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
-- (**Optional, I haven't installed**) [Keycastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases)
