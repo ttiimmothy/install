@@ -126,10 +126,10 @@ Software that needed to be installed
 - (**Optional**) [Langflow](https://www.langflow.org/desktop) 
 - (**Optional**) [Postman](https://www.postman.com/downloads/) 
 - (**Optional**) [Insomnia](https://insomnia.rest/) 
-- (**Optional**) [gpt4all](https://atlas.nomic.ai/) 
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
+- (**Optional, I haven't installed**) [gpt4all](https://atlas.nomic.ai/) 
 - (**Optional, I haven't installed**) [LM Studio](https://lmstudio.ai/) - Large langauge model interface (desktop application), always change my config file to add the path variable, which is very annoying, so I uninstall it
 - (**Optional, I haven't installed**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
 
