@@ -23,6 +23,7 @@ Software that needed to be installed
 1. (**Optional**) [Visual Studio Code](https://code.visualstudio.com/)
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. (**Optional**) [Windsurf](https://windsurf.com/editor)
+1. (**Optional**) [PearAI](https://trypear.ai/)
 1. (**Optional**) [CodeEdit](https://www.codeedit.app/) - open source xcode editor
 1. (**Optional, I haven't installed**) [Android Studio](https://developer.android.com/studio)
 1. (**Optional, I haven't installed**) [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
