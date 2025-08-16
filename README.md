@@ -84,6 +84,7 @@ Software that needed to be installed
 - (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional**) [Zoom](https://zoom.us/download)
 - (**Optional**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
+- (**Optional**) [1Password](https://1password.com/downloads/mac) 
 - (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
