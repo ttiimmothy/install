@@ -20,9 +20,9 @@ Software that needed to be installed
 1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
-1. [Kiro](https://kiro.dev/downloads/)
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
+1. (**Optional**) [Kiro](https://kiro.dev/downloads/)
 1. (**Optional**) [Windsurf](https://windsurf.com/editor)
 1. (**Optional**) [PearAI](https://trypear.ai/)
 1. (**Optional**) [CodeEdit](https://www.codeedit.app/) - open source xcode editor
