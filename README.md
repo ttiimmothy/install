@@ -87,7 +87,8 @@ Software that needed to be installed
 - (**Optional**) [Zoom](https://zoom.us/download)
 - (**Optional**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional**) [1Password](https://1password.com/downloads/mac) 
-- (**Optional**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
+- (**Optional**) [KeePassXC](https://keepassxc.org/) 
+- (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
 - (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
@@ -140,8 +141,8 @@ Software that needed to be installed
 
 ## Social media
 
-- (**Optional**) [WhatsApp](https://www.whatsapp.com/download/)
 - (**Optional**) [Telegram](https://macos.telegram.org/)
+- (**Optional, I haven't installed**) [WhatsApp](https://www.whatsapp.com/download/)
 - (**Optional, I haven't installed**) [Signal](https://signal.org/download/)
 - (**Optional, I haven't installed**) [Spotify](https://www.spotify.com/us/download/mac/)
 
