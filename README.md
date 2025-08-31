@@ -86,6 +86,7 @@ Software that needed to be installed
 - (**Optional**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional**) [1Password](https://1password.com/downloads/mac) 
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
+- (**Optional**) [Affinity Photo 2](https://store.serif.com/en-gb/account/downloads/?verified=1) - Replacement of Photoshop 
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor
 - (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor
