@@ -128,6 +128,7 @@ Software that needed to be installed
 - (**Optional**) [Linear](https://linear.app/download) 
 - (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
 - (**Optional**) [ChatGPT](https://openai.com/chatgpt/download/) 
+- (**Optional**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650) 
 - (**Optional**) [Figma](https://www.figma.com/downloads/) 
 - (**Optional**) [AnythingLLM](https://anythingllm.com/desktop) 
 - (**Optional**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
