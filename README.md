@@ -86,7 +86,7 @@ Software that needed to be installed
 - (**Optional**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional**) [1Password](https://1password.com/downloads/mac) 
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
-- (**Optional**) [Affinity Photo 2](https://store.serif.com/en-gb/account/downloads/?verified=1) - Replacement of Photoshop 
+- (**Optional**) [Cluely](https://cluely.com/) - Inivisible AI recording 
 - (**Optional**) [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor
@@ -109,6 +109,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) - Video editor
+- (**Optional, I haven't installed**) [Affinity Photo 2](https://store.serif.com/en-gb/account/downloads/?verified=1) - Replacement of Photoshop 
 - (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
 - (**Optional, I haven't installed**) [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
