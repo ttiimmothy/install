@@ -87,7 +87,7 @@ Software that needed to be installed
 - (**Optional**) [1Password](https://1password.com/downloads/mac) 
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
 - (**Optional**) [Cluely](https://cluely.com/) - Inivisible AI recording 
-- (**Optional**) [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
+- (**Optional, I haven't installed**) [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor
 - (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor
