@@ -134,10 +134,10 @@ Software that needed to be installed
 - (**Optional**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
 - (**Optional**) [Postman](https://www.postman.com/downloads/)
 - (**Optional**) [Insomnia](https://insomnia.rest/) 
-- (**Optional**) [RapidWeaver](https://www.realmacsoftware.com/rapidweaver/) - Mac website builder 
 - (**Optional**) [Solidtime](https://github.com/solidtime-io/solidtime-desktop) - Time tracker for the projects 
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
+- (**Optional, I haven't installed**) [RapidWeaver](https://www.realmacsoftware.com/rapidweaver/) - Mac website builder 
 - (**Optional, I haven't installed**) [AnythingLLM](https://anythingllm.com/desktop) 
 - (**Optional, I haven't installed**) [Langflow](https://www.langflow.org/desktop) - this application always modifies my config files for fish to source its own env and `uv`, it can't use the `uv` that I install in the local machine 
 - (**Optional, I haven't installed**) [LM Studio](https://lmstudio.ai/) - Large langauge model interface (desktop application), always change my config file to add the path variable, which is very annoying, so I uninstall it
