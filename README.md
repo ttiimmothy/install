@@ -129,12 +129,12 @@ Software that needed to be installed
 - (**Optional**) [Linear](https://linear.app/download) 
 - (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
 - (**Optional**) [ChatGPT](https://openai.com/chatgpt/download/) 
-- (**Optional**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650) 
 - (**Optional**) [Figma](https://www.figma.com/downloads/) 
 - (**Optional**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
 - (**Optional**) [Postman](https://www.postman.com/downloads/)
 - (**Optional**) [Insomnia](https://insomnia.rest/) 
 - (**Optional**) [Solidtime](https://github.com/solidtime-io/solidtime-desktop) - Time tracker for the projects 
+- (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650) 
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [RapidWeaver](https://www.realmacsoftware.com/rapidweaver/) - Mac website builder 
