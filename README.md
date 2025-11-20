@@ -82,10 +82,10 @@ Software that needed to be installed
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/) 
 - (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
-- (**Optional**) [Zoom](https://zoom.us/download)
 - (**Optional**) [1Password](https://1password.com/downloads/mac) 
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
 - (**Optional**) [Cluely](https://cluely.com/) - Inivisible AI recording 
+- (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor
 - (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor
