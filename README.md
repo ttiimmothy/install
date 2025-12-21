@@ -22,16 +22,16 @@ Software that needed to be installed
 1. [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. [VSCodium](https://vscodium.com/)
 1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
-1. (**Optional**) [Windsurf](https://windsurf.com/editor)
-1. (**Optional**) [PearAI](https://trypear.ai/)
-1. (**Optional**) [Kiro](https://kiro.dev/downloads/)
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
-1. (**Optional**) [CodeEdit](https://www.codeedit.app/) - open source xcode editor
+1. (**Optional, I haven't installed**) [Windsurf](https://windsurf.com/editor)
+1. (**Optional, I haven't installed**) [PearAI](https://trypear.ai/)
+1. (**Optional, I haven't installed**) [Kiro](https://kiro.dev/downloads/)
 1. (**Optional, I haven't installed**) [Android Studio](https://developer.android.com/studio)
 1. (**Optional, I haven't installed**) [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. (**Optional, I haven't installed**) [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
 1. (**Optional, I haven't installed**) [RustRover](https://www.jetbrains.com/rust/nextversion/)
 1. (**Optional, I haven't installed**) [Zed](https://zed.dev/)
+1. (**Optional, I haven't installed**) [CodeEdit](https://www.codeedit.app/) - open source xcode editor
 1. (**Optional, I haven't installed**) [Sublime Text](https://www.sublimetext.com/)
 
 - Visual Studio Code settings and extensions: [ttiimmothy/vscode-settings](https://github.com/ttiimmothy/vscode-settings)
@@ -82,9 +82,9 @@ Software that needed to be installed
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/) 
 - (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
-- (**Optional**) [1Password](https://1password.com/downloads/mac) 
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
-- (**Optional**) [Cluely](https://cluely.com/) - Inivisible AI recording 
+- (**Optional, I haven't installed**) [1Password](https://1password.com/downloads/mac) 
+- (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording 
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor
@@ -129,10 +129,10 @@ Software that needed to be installed
 - (**Optional**) [Linear](https://linear.app/download) 
 - (**Optional**) [Github Desktop](https://desktop.github.com/download/) 
 - (**Optional**) [Figma](https://www.figma.com/downloads/) 
-- (**Optional**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
 - (**Optional**) [Postman](https://www.postman.com/downloads/)
 - (**Optional**) [Insomnia](https://insomnia.rest/) 
-- (**Optional**) [Solidtime](https://github.com/solidtime-io/solidtime-desktop) - Time tracker for the projects 
+- (**Optional, I haven't installed**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
+- (**Optional, I haven't installed**) [Solidtime](https://github.com/solidtime-io/solidtime-desktop) - Time tracker for the projects 
 - (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/) 
 - (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650) 
 - (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
