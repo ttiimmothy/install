@@ -122,7 +122,6 @@ Software that needed to be installed
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - (**Optional**) [Podman Desktop](https://podman.io/) 
 - (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
-- (**Optional**) [Blender](https://www.blender.org/download/)
 - (**Optional**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
@@ -131,6 +130,7 @@ Software that needed to be installed
 - (**Optional**) [Figma](https://www.figma.com/downloads/) 
 - (**Optional**) [Postman](https://www.postman.com/downloads/)
 - (**Optional**) [Insomnia](https://insomnia.rest/) 
+- (**Optional, I haven't installed**) [Blender](https://www.blender.org/download/)
 - (**Optional, I haven't installed**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
 - (**Optional, I haven't installed**) [Solidtime](https://github.com/solidtime-io/solidtime-desktop) - Time tracker for the projects 
 - (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/) 
