@@ -22,6 +22,7 @@ Software that needed to be installed
 1. [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. [VSCodium](https://vscodium.com/)
 1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
+1. (**Optional**) [Antigravity](https://antigravity.google/download) 
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. (**Optional, I haven't installed**) [Windsurf](https://windsurf.com/editor)
 1. (**Optional, I haven't installed**) [PearAI](https://trypear.ai/)
