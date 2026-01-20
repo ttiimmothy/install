@@ -18,15 +18,15 @@ Software that needed to be installed
 ## Editor
 
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
-1. [Visual Studio Code](https://code.visualstudio.com/)
 1. [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. [VSCodium](https://vscodium.com/)
 1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
-1. (**Optional**) [Antigravity](https://antigravity.google/download) 
 1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
-1. (**Optional, I haven't installed**) [Windsurf](https://windsurf.com/editor)
+1. (**Optional, I haven't installed**) [Visual Studio Code](https://code.visualstudio.com/)
+1. (**Optional, I haven't installed**) [Antigravity](https://antigravity.google/download) - Google version of Vscode 
+1. (**optional, i haven't installed**) [Windsurf](https://windsurf.com/editor) - AI editor built on Vscode
 1. (**Optional, I haven't installed**) [PearAI](https://trypear.ai/)
-1. (**Optional, I haven't installed**) [Kiro](https://kiro.dev/downloads/)
+1. (**Optional, I haven't installed**) [Kiro](https://kiro.dev/downloads/) - Amazon version of Vscode
 1. (**Optional, I haven't installed**) [Android Studio](https://developer.android.com/studio)
 1. (**Optional, I haven't installed**) [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. (**Optional, I haven't installed**) [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
