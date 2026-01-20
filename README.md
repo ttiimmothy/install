@@ -74,7 +74,7 @@ Software that needed to be installed
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
-- [Zen browser](https://zen-browser.app/)
+- [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
 - [LinearMouse](https://linearmouse.app/) 
 - [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
@@ -84,6 +84,7 @@ Software that needed to be installed
 - (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
+- (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
 - (**Optional, I haven't installed**) [1Password](https://1password.com/downloads/mac) 
 - (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording 
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
@@ -116,7 +117,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases)
 - (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
-- (**Optional, I haven't installed**) [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
+- (**Optional, I haven't installed**) [Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
 
 ## Software for development
 
