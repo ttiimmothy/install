@@ -80,10 +80,11 @@ Software that needed to be installed
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
-- (**Optional**) [NordVPN](https://nordvpn.com/download/mac/) 
-- (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
-- (**Optional**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
+- (**Optional, I haven't installed**) [Google Chromef)vi)](https://www.google.com/intl/en_ca/chrome/) 
+- (**Optional, I haven't installed**) [NordVPN](https://nordvpn.com/download/mac/) 
+- (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
 - (**Optional, I haven't installed**) [1Password](https://1password.com/downloads/mac) 
 - (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording 
