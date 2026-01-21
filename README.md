@@ -81,7 +81,7 @@ Software that needed to be installed
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
-- (**Optional, I haven't installed**) [Google Chromef)vi)](https://www.google.com/intl/en_ca/chrome/) 
+- (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/) 
 - (**Optional, I haven't installed**) [NordVPN](https://nordvpn.com/download/mac/) 
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
