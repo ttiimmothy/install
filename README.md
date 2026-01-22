@@ -74,15 +74,16 @@ Software that needed to be installed
 - [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
-- [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
 - [LinearMouse](https://linearmouse.app/) 
 - [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
+- (**Optional**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/) 
 - (**Optional, I haven't installed**) [NordVPN](https://nordvpn.com/download/mac/) 
+- (**Optional, I haven't installed**) [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
@@ -118,18 +119,17 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases)
 - (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
-- (**Optional, I haven't installed**) [Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
 
 ## Software for development
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
-- (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional**) [Linear](https://linear.app/download) 
-- (**Optional**) [Postman](https://www.postman.com/downloads/)
 - (**Optional**) [Insomnia](https://insomnia.rest/) 
+- (**optional, i haven't installed**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
+- (**optional, i haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**optional, i haven't installed**) [Github Desktop](https://desktop.github.com/download/) 
 - (**optional, i haven't installed**) [Figma](https://www.figma.com/downloads/) 
 - (**optional, i haven't installed**) [Podman Desktop](https://podman.io/) 
