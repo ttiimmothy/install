@@ -21,7 +21,7 @@ Software that needed to be installed
 1. [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. [VSCodium](https://vscodium.com/)
 1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
-1. (**Optional**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
+1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. (**Optional, I haven't installed**) [Visual Studio Code](https://code.visualstudio.com/)
 1. (**Optional, I haven't installed**) [Antigravity](https://antigravity.google/download) - Google version of Vscode 
 1. (**optional, i haven't installed**) [Windsurf](https://windsurf.com/editor) - AI editor built on Vscode
@@ -52,10 +52,10 @@ Software that needed to be installed
 
 - [Adblock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
 - [Return YouTube Dislike](https://chromewebstore.google.com/detail/gebbhagfogifgggkldgodflihgfeippi)
-- (**Optional**) [Redux Devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-- (**Optional**) [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
-- (**Optional**) [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Add custom css to the website
+- [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Add custom css to the website
+- [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
 - (**Optional, I haven't installed**) [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- (**Optional, I haven't installed**) [Redux Devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 - (**Optional, I haven't installed**) [Vue Telescope](https://chromewebstore.google.com/detail/vue-telescope/neaebjphlfplgdhedjdhcnpjkndddbpd) - Check what the versions of vue and frameworks that the websites use
 - (**Optional, I haven't installed**) [Vue.js Devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 - (**Optional, I haven't installed**) [Angular Devtools](https://chromewebstore.google.com/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
@@ -75,7 +75,7 @@ Software that needed to be installed
 - [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - [Arc](https://arc.net/) - Preferred browser
 - [LinearMouse](https://linearmouse.app/) 
-- [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
+- (**Optional**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
@@ -123,9 +123,9 @@ Software that needed to be installed
 ## Software for development
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
-- (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
-- (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
-- (**Optional**) [Insomnia](https://insomnia.rest/) 
+- (**optional, i haven't installed**) [Ollama](https://ollama.com/download) - Large langauge model server
+- (**optional, i haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
+- (**optional, i haven't installed**) [Insomnia](https://insomnia.rest/) 
 - (**optional, i haven't installed**) [Linear](https://linear.app/download) 
 - (**optional, i haven't installed**) [Godot](https://godotengine.org/download/macos/)
 - (**optional, i haven't installed**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
@@ -164,7 +164,7 @@ Software that needed to be installed
 
 ## CLI (Command line interface)
 
-- [`zsh`](https://zsh.org/)
+- (**not used now**) [`zsh`](https://zsh.org/)
 - [`fish`](https://fishshell.com/)
   - Config (public github repository, not update to the latest version): [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
   - Config (private github repository): [ttiimmothy/dotfiles-stow](https://github.com/ttiimmothy/dotfiles-stow)
