@@ -42,7 +42,7 @@ Software that needed to be installed
 
 - Terminal - Mac default terminal
 - [Ghostty](https://ghostty.org/download)
-- (**Optional**) [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
+- (**Optional, I haven't installed**) [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
 - (**Optional, I haven't installed**) [iTerm](https://iterm2.com/)
 - (**Optional, I haven't installed**) [Alacritty](https://alacritty.org/)
 - (**Optional, I haven't installed**) [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
@@ -78,10 +78,10 @@ Software that needed to be installed
 - [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
-- (**Optional**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
 - (**Optional**) [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
 - (**Optional**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
+- (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/) 
 - (**Optional, I haven't installed**) [NordVPN](https://nordvpn.com/download/mac/) 
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
@@ -123,11 +123,11 @@ Software that needed to be installed
 ## Software for development
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
-- (**Optional**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
-- (**Optional**) [Linear](https://linear.app/download) 
 - (**Optional**) [Insomnia](https://insomnia.rest/) 
+- (**optional, i haven't installed**) [Linear](https://linear.app/download) 
+- (**optional, i haven't installed**) [Godot](https://godotengine.org/download/macos/)
 - (**optional, i haven't installed**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**optional, i haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**optional, i haven't installed**) [Github Desktop](https://desktop.github.com/download/) 
