@@ -19,7 +19,7 @@ Software that needed to be installed
 
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 1. [VSCodium](https://vscodium.com/)
-1. [Cursor](https://www.cursor.com/) 
+1. (**Optional**) [Cursor](https://www.cursor.com/) 
 1. (**Optional, I haven't installed**) [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. (**Optional, I haven't installed**) [Visual Studio Code](https://code.visualstudio.com/)
