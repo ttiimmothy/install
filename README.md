@@ -18,9 +18,9 @@ Software that needed to be installed
 ## Editor
 
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
-1. [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. [VSCodium](https://vscodium.com/)
-1. [Cursor](https://www.cursor.com/) - AI editor built on Vscode
+1. [Cursor](https://www.cursor.com/) 
+1. (**Optional, I haven't installed**) [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. (**Optional, I haven't installed**) [Visual Studio Code](https://code.visualstudio.com/)
 1. (**Optional, I haven't installed**) [Antigravity](https://antigravity.google/download) - Google version of Vscode 
@@ -71,16 +71,16 @@ Software that needed to be installed
 
 - [Raycast](https://raycast.com/) - Spotlight replacement
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
-- [Safari](https://www.apple.com/ca/safari/) - Third preferred browser
-- [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
-- [Arc](https://arc.net/) - Preferred browser
+- [Safari](https://www.apple.com/ca/safari/) 
+- [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
+- [Arc](https://arc.net/) 
 - [LinearMouse](https://linearmouse.app/) 
 - (**Optional**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
-- (**Optional**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
-- (**Optional**) [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
-- (**Optional**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
+- (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
+- (**Optional, I haven't installed**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
+- (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/) 
 - (**Optional, I haven't installed**) [NordVPN](https://nordvpn.com/download/mac/) 
