@@ -146,8 +146,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [LM Studio](https://lmstudio.ai/) - Large langauge model interface (desktop application), always change my config file to add the path variable, which is very annoying, so I uninstall it
 - (**Optional, I haven't installed**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional, I haven't installed**) [gpt4all](https://atlas.nomic.ai/) 
-- (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit)
-- (**Optional, I haven't installed**) [Amazon Q](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html?b=cli&p=overview) 
+- (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit) 
 
 ## Social media
 
