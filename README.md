@@ -123,7 +123,7 @@ Software that needed to be installed
 ## Software for development
 
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
-- (**optional, i haven't installed**) [Ollama](https://ollama.com/download) - Large langauge model server
+- (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**optional, i haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**optional, i haven't installed**) [Insomnia](https://insomnia.rest/) 
 - (**optional, i haven't installed**) [Linear](https://linear.app/download) 
