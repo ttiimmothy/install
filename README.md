@@ -42,7 +42,7 @@ Software that needed to be installed
 
 - Terminal - Mac default terminal
 - [Ghostty](https://ghostty.org/download)
-- (**Optional**) [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
+- [Wezterm](https://wezfurlong.org/wezterm/install/macos.html)
 - (**Optional, I haven't installed**) [Warp](https://www.warp.dev/) - Terminal with AI suggestions, **incompatible** with **`fish tide theme`**, **`neovim`**, **`tmux`**
 - (**Optional, I haven't installed**) [iTerm](https://iterm2.com/)
 - (**Optional, I haven't installed**) [Alacritty](https://alacritty.org/)
