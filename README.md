@@ -7,7 +7,7 @@ Software that needed to be installed
 
 - [Editor](#editor)
 - [Terminal](#terminal)
-- [Arc extensions](#arc-extensions)
+- [Comet extensions](#comet-extensions)
 - [Macbook productivity](#software-related-to-macbook-productivity)
 - [Software for development](#software-for-development)
 - [Social media](#social-media)
@@ -19,7 +19,7 @@ Software that needed to be installed
 
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
 1. [VSCodium](https://vscodium.com/)
-1. (**Optional**) [Cursor](https://www.cursor.com/) 
+1. (**Optional, I haven't installed**) [Cursor](https://www.cursor.com/) 
 1. (**Optional, I haven't installed**) [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. (**Optional, I haven't installed**) [Visual Studio Code](https://code.visualstudio.com/)
@@ -48,12 +48,12 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Alacritty](https://alacritty.org/)
 - (**Optional, I haven't installed**) [Kitty](https://sw.kovidgoyal.net/kitty/binary/)
 
-## Arc extensions
+## Comet extensions
 
-- [Adblock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
 - [Return YouTube Dislike](https://chromewebstore.google.com/detail/gebbhagfogifgggkldgodflihgfeippi)
 - [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Add custom css to the website
 - [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
+- (**Optional, I haven't installed**) [Adblock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
 - (**Optional, I haven't installed**) [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - (**Optional, I haven't installed**) [Redux Devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 - (**Optional, I haven't installed**) [Vue Telescope](https://chromewebstore.google.com/detail/vue-telescope/neaebjphlfplgdhedjdhcnpjkndddbpd) - Check what the versions of vue and frameworks that the websites use
@@ -73,12 +73,11 @@ Software that needed to be installed
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
 - [Safari](https://www.apple.com/ca/safari/) 
 - [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
-- [Arc](https://arc.net/) 
 - [LinearMouse](https://linearmouse.app/) 
 - (**Optional**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
-- (**Optional, I haven't installed**) [Echo ai](https://echoproductivity.com/install)
+- (**Optional, I haven't installed**) [Arc](https://arc.net/) 
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
