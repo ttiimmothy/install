@@ -167,7 +167,7 @@ Software that needed to be installed
 - [`fish`](https://fishshell.com/)
   - Config (public github repository, not update to the latest version): [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
   - Config (private github repository): [ttiimmothy/dotfiles-stow](https://github.com/ttiimmothy/dotfiles-stow)
-- (**Not suggest using**) [`pnpm`](https://pnpm.io/) - Preferred package manager, installed by `brew install pnpm`
+- (**not suggest using**) [`pnpm`](https://pnpm.io/) - Preferred package manager, installed by `brew install pnpm`
 - (**install in project**) [`npm-check-updates`](https://github.com/raineorshine/npm-check-updates) - Upgrade dependencies
   - [ ] `npm upgrade` cannot upgrade all the dependencies listed in `package.json`, only can do the major updates in **Greater Than or Equal To (>=)** `"react": ">=17.0.2"`
 - **The *below version ranges* cannot be upgraded by `npm upgrade` but can be upgraded by `npm-check-updates`, because `npm upgrade` cannot directly change the version in `package.json`**
