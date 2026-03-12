@@ -76,9 +76,10 @@ Software that needed to be installed
 - [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
 - [LinearMouse](https://linearmouse.app/) 
 - (**Optional**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
-- (**Optional**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional**) [KeePassXC](https://keepassxc.org/) 
+- (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Arc](https://arc.net/) 
+- (**Optional, I haven't installed**) [Granola](https://notes.granola.ai/download)
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
