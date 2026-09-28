@@ -18,9 +18,9 @@ Software that needed to be installed
 ## Editor
 
 1. [Neovim](https://github.com/neovim/neovim) - `brew install neovim`
-1. [VSCodium](https://vscodium.com/)
+1. (**Optional**) [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
+1. (**Optional, I haven't installed**) [VSCodium](https://vscodium.com/)
 1. (**Optional, I haven't installed**) [Cursor](https://www.cursor.com/) 
-1. (**Optional, I haven't installed**) [Visual Studio Code - Insiders](https://code.visualstudio.com/insiders/)
 1. (**Optional, I haven't installed**) [Xcode](https://developer.apple.com/download/all/?q=Xcode)
 1. (**Optional, I haven't installed**) [Visual Studio Code](https://code.visualstudio.com/)
 1. (**Optional, I haven't installed**) [Antigravity](https://antigravity.google/download) - Google version of Vscode 
@@ -70,85 +70,102 @@ Software that needed to be installed
 
 ## Software related to macbook productivity
 
-- [Raycast](https://raycast.com/) - Spotlight replacement
-- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - Keys modification
-- [Safari](https://www.apple.com/ca/safari/) 
-- [Comet](https://www.perplexity.ai/comet) - Perplexity browser 
-- [LinearMouse](https://linearmouse.app/) 
-- (**Optional**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
-- (**Optional**) [KeePassXC](https://keepassxc.org/) 
+- [Raycast](https://raycast.com/)
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
+- [Safari](https://www.apple.com/ca/safari/)
+- [Comet](https://www.perplexity.ai/comet) - Perplexity browser
+- (**Optional**) [Obsidian](https://obsidian.md)
+- (**Optional**) [Maccy](https://github.com/p0deje/Maccy)
+- (**Optional**) [Pika](https://superhighfives.com/pika)
+- (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
+- (**Optional**) [Keyboard clean tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
+- (**Optional**) [KeePassXC](https://keepassxc.org/)
+- (**Optional**) [1Password](https://1password.com/downloads/mac)
+- (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
+- (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, subscribe payment before using
+- (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
+- (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Arc](https://arc.net/) 
-- (**Optional, I haven't installed**) [Granola](https://notes.granola.ai/download)
+- (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
-- (**Optional, I haven't installed**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser 
+- (**Optional, I haven't installed**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser, can't access
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
-- (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/) 
-- (**Optional, I haven't installed**) [NordVPN](https://nordvpn.com/download/mac/) 
-- (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
+- (**Optional, I haven't installed**) [NordVPN](https://nordvpn.com/download/mac/)
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
-- (**Optional, I haven't installed**) [1Password](https://1password.com/downloads/mac) 
-- (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording 
+- (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
-- (**Optional, I haven't installed**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor
-- (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor
+- (**Optional, I haven't installed**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor, install link deleted
+- (**Optional, I haven't installed**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor, install link deleted
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
-- (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording
+- (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
+- (**Optional, I haven't installed**) [Sip](https://sipapp.io/) - Color picker
+- (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
+- (**Optional, I haven't installed**) [Audio hijack](https://rogueamoeba.com/audiohijack/)
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
-- (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
-- (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/) 
-- (**optional, i haven't installed**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used 
-- (**optional, i haven't installed**) [Karabiner-EventViewer](https://karabiner-elements.pqrs.org/) - installed with **Karabiner-Elements**, can be uninstalled 
+- (**Optional, I haven't installed**) [LinearMouse](https://linearmouse.app/)
+- (**Optional, I haven't installed**) [Mos](https://mos.caldis.me/)
 - (**Optional, I haven't installed**) [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
+- (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
+- (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/)
+- (**Optional, I haven't installed**) [Alt tab](https://alt-tab.app/download)
+- (**optional, i haven't installed**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
-- (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
+- (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
+- (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
+- (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
-- (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) - AI video editor 
-- (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
-- (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
-- (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
+- (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) - AI video editor
 - (**Optional, I haven't installed**) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) - Video editor
 - (**Optional, I haven't installed**) [Affinity Photo 2](https://store.serif.com/en-gb/account/downloads/?verified=1) - Replacement of Photoshop 
 - (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
+- (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/za/app/unsplash-wallpapers/id1284863847)
+- (**Optional, I haven't installed**) [Focus](https://heyfocus.com/download/)
 - (**Optional, I haven't installed**) [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
+- (**Optional, I haven't installed**) [Peek](https://justpeek.app/peek/download)
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
+- (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - media control and media new ui
+- (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
-- (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases)
-- (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
 
 ## Software for development
 
-- (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
-- (**Optional**) [Ollama](https://ollama.com/download) - Large langauge model server
-- (**optional, i haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
-- (**optional, i haven't installed**) [Insomnia](https://insomnia.rest/) 
-- (**optional, i haven't installed**) [Linear](https://linear.app/download) 
-- (**optional, i haven't installed**) [Godot](https://godotengine.org/download/macos/)
-- (**optional, i haven't installed**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
-- (**optional, i haven't installed**) [Postman](https://www.postman.com/downloads/)
-- (**optional, i haven't installed**) [Github Desktop](https://desktop.github.com/download/) 
-- (**optional, i haven't installed**) [Figma](https://www.figma.com/downloads/) 
-- (**optional, i haven't installed**) [Podman Desktop](https://podman.io/) 
-- (**Optional, I haven't installed**) [Blender](https://www.blender.org/download/)
-- (**Optional, I haven't installed**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes 
-- (**Optional, I haven't installed**) [Solidtime](https://github.com/solidtime-io/solidtime-desktop) - Time tracker for the projects 
-- (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/) 
-- (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650) 
-- (**Optional, I haven't installed**) [Obsidian](https://obsidian.md) - Taking notes
+- (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
+- (**Optional**) [ChatGPT Desktop](https://openai.com/chatgpt/download/)
+- (**optional**) [Linear](https://linear.app/download)
+- (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
+- (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
+- (**Optional, I haven't installed**) [Insomnia](https://insomnia.rest/)
 - (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
-- (**Optional, I haven't installed**) [RapidWeaver](https://www.realmacsoftware.com/rapidweaver/) - Mac website builder 
-- (**Optional, I haven't installed**) [AnythingLLM](https://anythingllm.com/desktop) 
-- (**Optional, I haven't installed**) [Langflow](https://www.langflow.org/desktop) - this application always modifies my config files for fish to source its own env and `uv`, it can't use the `uv` that I install in the local machine 
+- (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
+- (**Optional, I haven't installed**) [Github Desktop](https://desktop.github.com/download/)
+- (**Optional, I haven't installed**) [Blender](https://www.blender.org/download/)
+- (**Optional, I haven't installed**) [Figma](https://www.figma.com/downloads/)
+- (**Optional, I haven't installed**) [Attio](https://attio.com/download) - CRM
+- (**Optional, I haven't installed**) [Asana](https://asana.com/download)
+- (**Optional, I haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
+- (**Optional, I haven't installed**) [Ollama](https://ollama.com/download) - Large langauge model server
+- (**Optional, I haven't installed**) [Podman Desktop](https://podman.io/)
+- (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650)
+- (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit) 
+- (**Optional, I haven't installed**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes
+- (**Optional, I haven't installed**) [Solidtime](https://github.com/solidtime-io/solidtime-desktop) - Time tracker for the projects
+- (**Optional, I haven't installed**) [RapidWeaver](https://www.realmacsoftware.com/rapidweaver/) - Mac website builder
+- (**Optional, I haven't installed**) [AnythingLLM](https://anythingllm.com/desktop)
+- (**Optional, I haven't installed**) [Langflow](https://www.langflow.org/desktop) - this application always modifies my config files for fish to source its own env and `uv`, it can't use the `uv` that I install in the local machine
 - (**Optional, I haven't installed**) [LM Studio](https://lmstudio.ai/) - Large langauge model interface (desktop application), always change my config file to add the path variable, which is very annoying, so I uninstall it
 - (**Optional, I haven't installed**) [Cherry Studio](https://www.cherry-ai.com/download) - Large langauge model client (desktop application, able to use model context protocol)
+- (**Optional, I haven't installed**) [Granola](https://notes.granola.ai/download)
 - (**Optional, I haven't installed**) [gpt4all](https://atlas.nomic.ai/) 
-- (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit) 
 
 ## Social media
 
@@ -159,9 +176,7 @@ Software that needed to be installed
 
 ## Useful websites
 
-- [Figma](https://www.figma.com/) - Illustrations, logos
 - [DrawSQL](https://drawsql.app/diagrams) - Illustration of SQL tables
-- [ChatGPT](https://chat.openai.com/)
 
 ## CLI (Command line interface)
 
