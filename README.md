@@ -147,7 +147,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Peek](https://justpeek.app/peek/download)
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
-- (**Optional, I haven't installed**) [Pom](https://apps.apple.com/us/app/pom-anti-sleep-app/id6761321183) - Anti sleep
+- (**Optional, I haven't installed**) [Tomatobar](https://github.com/ivoronin/TomatoBar) - Focus app
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
