@@ -108,17 +108,17 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
 - (**Optional, I haven't installed**) [Sip](https://sipapp.io/) - Color picker
 - (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
-- (**Optional, I haven't installed**) [Audio hijack](https://rogueamoeba.com/audiohijack/)
+- (**Optional, I haven't installed**) [Audio Hijack](https://rogueamoeba.com/audiohijack/)
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
 - (**Optional, I haven't installed**) [LinearMouse](https://linearmouse.app/)
 - (**Optional, I haven't installed**) [Mos](https://mos.caldis.me/)
 - (**Optional, I haven't installed**) [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
 - (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/)
-- (**Optional, I haven't installed**) [Alt tab](https://alt-tab.app/download)
+- (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
 - (**optional, i haven't installed**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
-- (**Optional, I haven't installed**) [Better display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
+- (**Optional, I haven't installed**) [Better Display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
