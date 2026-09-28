@@ -151,10 +151,10 @@ Software that needed to be installed
 - (**optional**) [Linear](https://linear.app/download)
 - (**Optional**) [CC Switch](https://ccswitch.io/zh/download)
 - (**Optional**) [Codexbar](https://github.com/steipete/CodexBar)
+- (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - (**Optional, I haven't installed**) [Insomnia](https://insomnia.rest/)
-- (**Optional, I haven't installed**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional, I haven't installed**) [Github Desktop](https://desktop.github.com/download/)
 - (**Optional, I haven't installed**) [Blender](https://www.blender.org/download/)
