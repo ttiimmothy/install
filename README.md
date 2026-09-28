@@ -75,6 +75,10 @@ Software that needed to be installed
 - [Safari](https://www.apple.com/ca/safari/)
 - [Comet](https://www.perplexity.ai/comet) - Perplexity browser
 - (**Optional**) [Obsidian](https://obsidian.md)
+- (**Optional**) [Notion](https://www.notion.com/desktop)
+- (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
+- (**Optional**) [Inkdrop](https://my.inkdrop.app/download)
+- (**Optional**) [NordVPN](https://nordvpn.com/download/mac/)
 - (**Optional**) [Maccy](https://github.com/p0deje/Maccy)
 - (**Optional**) [Pika](https://superhighfives.com/pika)
 - (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
@@ -84,6 +88,7 @@ Software that needed to be installed
 - (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, subscribe payment before using
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
+- (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
@@ -96,7 +101,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
-- (**Optional, I haven't installed**) [NordVPN](https://nordvpn.com/download/mac/)
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
 - (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording
@@ -145,6 +149,8 @@ Software that needed to be installed
 - (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
 - (**Optional**) [ChatGPT Desktop](https://openai.com/chatgpt/download/)
 - (**optional**) [Linear](https://linear.app/download)
+- (**Optional**) [CC Switch](https://ccswitch.io/zh/download)
+- (**Optional**) [Codexbar](https://github.com/steipete/CodexBar)
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - (**Optional, I haven't installed**) [Insomnia](https://insomnia.rest/)
@@ -185,9 +191,9 @@ Software that needed to be installed
 
 - (**not used now**) [`zsh`](https://zsh.org/)
 - [`fish`](https://fishshell.com/)
-  - Config (public github repository, not update to the latest version): [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
-  - Config (private github repository): [ttiimmothy/dotfiles-stow](https://github.com/ttiimmothy/dotfiles-stow)
-- (**not suggest using**) [`pnpm`](https://pnpm.io/) - Preferred package manager, installed by `brew install pnpm`
+  - Config: [ttiimmothy/dotfiles](https://github.com/ttiimmothy/dotfiles)
+- [`pyenv`](https://pnpm.io/) - `brew install pyenv`
+- (**not suggest using**) [`pnpm`](https://pnpm.io/)
 - (**install in project**) [`npm-check-updates`](https://github.com/raineorshine/npm-check-updates) - Upgrade dependencies
   - [ ] `npm upgrade` cannot upgrade all the dependencies listed in `package.json`, only can do the major updates in **Greater Than or Equal To (>=)** `"react": ">=17.0.2"`
 - **The *below version ranges* cannot be upgraded by `npm upgrade` but can be upgraded by `npm-check-updates`, because `npm upgrade` cannot directly change the version in `package.json`**
