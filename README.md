@@ -84,6 +84,7 @@ Software that needed to be installed
 - (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, subscribe payment before using
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
+- (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
@@ -124,9 +125,11 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
+- (**Optional, I haven't installed**) [Ivory](ttps://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon desktop
+- (**Optional, I haven't installed**) [Aeronaut](https://apps.apple.com/us/app/aeronaut-for-bluesky/id6670275450) - Bluesky desktop
 - (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) - AI video editor
 - (**Optional, I haven't installed**) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) - Video editor
-- (**Optional, I haven't installed**) [Affinity Photo 2](https://store.serif.com/en-gb/account/downloads/?verified=1) - Replacement of Photoshop 
+- (**Optional, I haven't installed**) [Affinity Photo 2](https://store.serif.com/en-gb/account/downloads/) - Replacement of Photoshop 
 - (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
 - (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/za/app/unsplash-wallpapers/id1284863847)
 - (**Optional, I haven't installed**) [Focus](https://heyfocus.com/download/)
