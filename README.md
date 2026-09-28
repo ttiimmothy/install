@@ -97,7 +97,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Arc](https://arc.net/) 
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
-- (**Optional, I haven't installed**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser, can't access
+- (**Optional, I haven't installed**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser, OpenAI don't maintain anymore`
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
