@@ -82,16 +82,19 @@ Software that needed to be installed
 - (**Optional**) [Maccy](https://github.com/p0deje/Maccy)
 - (**Optional**) [Pika](https://superhighfives.com/pika)
 - (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
-- (**Optional**) [Keyboard clean tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
+- (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [KeePassXC](https://keepassxc.org/)
 - (**Optional**) [1Password](https://1password.com/downloads/mac)
 - (**Optional**) [Nordpass](https://nordpass.com/download/macos/)
 - (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, subscribe payment before using
+- (**Optional**) [Itsycal](https://mowglii.com/itsycal/)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Numi](https://numi.app/)
-- (**Optional**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
+- (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
@@ -119,6 +122,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [LinearMouse](https://linearmouse.app/)
 - (**Optional, I haven't installed**) [Mos](https://mos.caldis.me/)
 - (**Optional, I haven't installed**) [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
+- (**Optional, I haven't installed**) [BetterTouchTool](https://folivora.ai/downloads)
 - (**optional, i haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/)
 - (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
@@ -152,6 +156,7 @@ Software that needed to be installed
 - (**optional**) [Linear](https://linear.app/download)
 - (**Optional**) [CC Switch](https://ccswitch.io/zh/download)
 - (**Optional**) [Codexbar](https://github.com/steipete/CodexBar)
+- (**Optional**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
@@ -187,6 +192,7 @@ Software that needed to be installed
 ## Useful websites
 
 - [DrawSQL](https://drawsql.app/diagrams) - Illustration of SQL tables
+- [Mac Menubar Apps](https://macmenubar.app/)
 
 ## CLI (Command line interface)
 
