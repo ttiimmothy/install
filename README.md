@@ -85,6 +85,7 @@ Software that needed to be installed
 - (**Optional**) [Keyboard clean tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [KeePassXC](https://keepassxc.org/)
 - (**Optional**) [1Password](https://1password.com/downloads/mac)
+- (**Optional**) [Nordpass](https://nordpass.com/download/macos/)
 - (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, subscribe payment before using
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
