@@ -123,7 +123,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
-- (**Optional, I haven't installed**) [Proton vpn](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
+- (**Optional, I haven't installed**) [Proton VPN](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
 - (**Optional, I haven't installed**) [Ivory](ttps://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon desktop
 - (**Optional, I haven't installed**) [Aeronaut](https://apps.apple.com/us/app/aeronaut-for-bluesky/id6670275450) - Bluesky desktop
