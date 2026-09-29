@@ -181,9 +181,9 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Framer](https://www.framer.com/)
 - (**Optional, I haven't installed**) [Attio](https://attio.com/download) - CRM
 - (**Optional, I haven't installed**) [Asana](https://asana.com/download)
+- (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional, I haven't installed**) [Ollama](https://ollama.com/download) - Large langauge model server
-- (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Podman Desktop](https://podman.io/)
 - (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650)
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit) 
