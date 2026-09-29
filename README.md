@@ -91,20 +91,19 @@ Software that needed to be installed
 - (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Tailscale](https://tailscale.com/download)
-- (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation
 - (**Optional**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional, I haven't installed**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
-- (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API (can't be free)
 - (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
+- (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Arc](https://arc.net/) 
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
-- (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
@@ -129,7 +128,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
 - (**Optional, I haven't installed**) [Proton VPN](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
-- (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
 - (**Optional, I haven't installed**) [Ivory](ttps://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon desktop
 - (**Optional, I haven't installed**) [Aeronaut](https://apps.apple.com/us/app/aeronaut-for-bluesky/id6670275450) - Bluesky desktop
 - (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) - AI video editor
@@ -138,6 +136,8 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
 - (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/za/app/unsplash-wallpapers/id1284863847)
 - (**Optional, I haven't installed**) [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
+- (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
+- (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
 - (**Optional, I haven't installed**) [Velja](https://apps.apple.com/us/app/velja/id1607635845) - Browser picker, need subscribe payment ($10), have **paw menu bar icon**
 - (**Optional, I haven't installed**) [RunCat](https://runcat-dev.github.io/RunCatNeo/)
