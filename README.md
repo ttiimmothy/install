@@ -97,13 +97,8 @@ Software that needed to be installed
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
-- (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
-- (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
-- (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Arc](https://arc.net/) 
-- (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
-- (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
@@ -152,6 +147,11 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Parrot](https://github.com/humanitas-labs/parrot) - Dictation
 - (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
+- (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
+- (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
+- (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Tomatobar](https://github.com/ivoronin/TomatoBar) - Focus app
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
