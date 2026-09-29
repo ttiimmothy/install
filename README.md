@@ -79,15 +79,15 @@ Software that needed to be installed
 - (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional**) [Inkdrop](https://my.inkdrop.app/download)
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/)
+- (**Optional**) [Nordpass](https://nordpass.com/download/macos/)
+- (**Optional**) [1Password](https://1password.com/downloads/mac)
+- (**Optional**) [KeePassXC](https://keepassxc.org/)
 - (**Optional**) [Maccy](https://github.com/p0deje/Maccy)
 - (**Optional**) [Pika](https://superhighfives.com/pika)
 - (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
-- (**Optional**) [KeePassXC](https://keepassxc.org/)
-- (**Optional**) [1Password](https://1password.com/downloads/mac)
-- (**Optional**) [Nordpass](https://nordpass.com/download/macos/)
 - (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
-- (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, subscribe payment before using
+- (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional**) [ItsyCal](https://mowglii.com/itsycal/)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Localsend](https://localsend.org/download)
@@ -144,11 +144,12 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/za/app/unsplash-wallpapers/id1284863847)
 - (**Optional, I haven't installed**) [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
-- (**Optional, I haven't installed**) [Velja](https://apps.apple.com/us/app/velja/id1607635845) - Browser picker, need subscribe payment, have **paw menu bar icon**
+- (**Optional, I haven't installed**) [Velja](https://apps.apple.com/us/app/velja/id1607635845) - Browser picker, need subscribe payment ($10), have **paw menu bar icon**
 - (**Optional, I haven't installed**) [RunCat](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional, I haven't installed**) [Horizon](https://peterdpong.com/horizon)
 - (**Optional, I haven't installed**) [Today](https://sindresorhus.com/today)
 - (**Optional, I haven't installed**) [Quill](https://github.com/humanitas-labs/quill) - Meeting recorder and transcriber
+- (**Optional, I haven't installed**) [Parrot](https://github.com/humanitas-labs/parrot) - Dictation
 - (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
 - (**Optional, I haven't installed**) [Tomatobar](https://github.com/ivoronin/TomatoBar) - Focus app
@@ -170,6 +171,7 @@ Software that needed to be installed
 - (**Optional**) [CC Switch](https://ccswitch.io/zh/download)
 - (**Optional**) [Codexbar](https://github.com/steipete/CodexBar)
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
+- (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
@@ -181,7 +183,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Framer](https://www.framer.com/)
 - (**Optional, I haven't installed**) [Attio](https://attio.com/download) - CRM
 - (**Optional, I haven't installed**) [Asana](https://asana.com/download)
-- (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional, I haven't installed**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional, I haven't installed**) [Podman Desktop](https://podman.io/)
