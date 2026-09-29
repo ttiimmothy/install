@@ -76,7 +76,6 @@ Software that needed to be installed
 - [Comet](https://www.perplexity.ai/comet) - Perplexity browser
 - (**Optional**) [Obsidian](https://obsidian.md)
 - (**Optional**) [Notion](https://www.notion.com/desktop)
-- (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional**) [Inkdrop](https://my.inkdrop.app/download)
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/)
 - (**Optional**) [Nordpass](https://nordpass.com/download/macos/)
@@ -86,7 +85,6 @@ Software that needed to be installed
 - (**Optional**) [Pika](https://superhighfives.com/pika)
 - (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
-- (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional**) [ItsyCal](https://mowglii.com/itsycal/)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
@@ -94,9 +92,11 @@ Software that needed to be installed
 - (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Tailscale](https://tailscale.com/download)
+- (**Optional**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
+- (**Optional, I haven't installed**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
-- (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
+- (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional, I haven't installed**) [Arc](https://arc.net/) 
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
