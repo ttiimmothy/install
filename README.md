@@ -88,6 +88,7 @@ Software that needed to be installed
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional**) [ItsyCal](https://mowglii.com/itsycal/)
 - (**Optional**) [Localsend](https://localsend.org/download)
+- (**Optional**) [Macuse](https://macuse.app/)
 - (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Tailscale](https://tailscale.com/download)
