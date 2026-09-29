@@ -87,13 +87,14 @@ Software that needed to be installed
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional**) [ItsyCal](https://mowglii.com/itsycal/)
-- (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Tailscale](https://tailscale.com/download)
+- (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation
 - (**Optional**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
+- (**Optional, I haven't installed**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional, I haven't installed**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
@@ -123,7 +124,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
 - (**Optional, I haven't installed**) [Vorssaint](https://vorssaint.com/)
 - (**Optional, I haven't installed**) [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Tilting window manager
-- (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - (**Optional, I haven't installed**) [Better Display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
