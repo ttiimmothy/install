@@ -93,7 +93,7 @@ Software that needed to be installed
 - (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
-- (**Optional**) [Horizon](https://peterdpong.com/horizon)
+- (**Optional**) [Tailscale](https://tailscale.com/download)
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
@@ -124,7 +124,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Vorssaint](https://vorssaint.com/)
 - (**Optional, I haven't installed**) [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Tilting window manager
 - (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation
-- (**Optional, I haven't installed**) [Tailscale](https://tailscale.com/download)
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - (**Optional, I haven't installed**) [Better Display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
@@ -143,6 +142,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Velja](https://apps.apple.com/us/app/velja/id1607635845) - Browser picker, need subscribe payment ($10), have **paw menu bar icon**
 - (**Optional, I haven't installed**) [RunCat](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional, I haven't installed**) [Today](https://sindresorhus.com/today)
+- (**Optional, I haven't installed**) [Horizon](https://peterdpong.com/horizon)
 - (**Optional, I haven't installed**) [Quill](https://github.com/humanitas-labs/quill) - Meeting recorder and transcriber
 - (**Optional, I haven't installed**) [Parrot](https://github.com/humanitas-labs/parrot) - Dictation
 - (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**
