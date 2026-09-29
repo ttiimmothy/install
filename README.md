@@ -91,6 +91,7 @@ Software that needed to be installed
 - (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Tailscale](https://tailscale.com/download)
+- (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
@@ -139,7 +140,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
 - (**Optional, I haven't installed**) [Velja](https://apps.apple.com/us/app/velja/id1607635845) - Browser picker, need subscribe payment ($10), have **paw menu bar icon**
-- (**Optional, I haven't installed**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional, I haven't installed**) [Today](https://sindresorhus.com/today)
 - (**Optional, I haven't installed**) [Horizon](https://peterdpong.com/horizon)
 - (**Optional, I haven't installed**) [Quill](https://github.com/humanitas-labs/quill) - Meeting recorder and transcriber
