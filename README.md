@@ -86,7 +86,6 @@ Software that needed to be installed
 - (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
-- (**Optional**) [ItsyCal](https://mowglii.com/itsycal/)
 - (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Numi](https://numi.app/)
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
@@ -94,7 +93,8 @@ Software that needed to be installed
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
-- (**Optional, I haven't installed**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
+- (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
+- (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
 - (**Optional, I haven't installed**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
