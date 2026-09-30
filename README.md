@@ -158,6 +158,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
+- (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed, not suggested to use**) [Pictogram](https://pictogramapp.com/) - Change app icon, usually don't have files write permission after updating by `chmod 775`
 - (**Optional, I haven't installed, not suggested to use**) [Openonyx](https://github.com/OpenOnyx/OpenOnyx) - Notes app, early release, don't have features that I want
 - (**optional, i haven't installed, not suggested to use**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used, have bugs
