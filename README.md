@@ -130,7 +130,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Proton VPN](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
 - (**Optional, I haven't installed**) [Ivory](ttps://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon desktop
 - (**Optional, I haven't installed**) [Aeronaut](https://apps.apple.com/us/app/aeronaut-for-bluesky/id6670275450) - Bluesky desktop
-- (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) - AI video editor
+- (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) - AI video editorcodenot
 - (**Optional, I haven't installed**) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) - Video editor
 - (**Optional, I haven't installed**) [Affinity Photo 2](https://store.serif.com/en-gb/account/downloads/) - Replacement of Photoshop 
 - (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
@@ -145,6 +145,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Quill](https://github.com/humanitas-labs/quill) - Meeting recorder and transcriber
 - (**Optional, I haven't installed**) [Parrot](https://github.com/humanitas-labs/parrot) - Dictation
 - (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**
+- (**Optional, I haven't installed**) [Replacicon](https://replacicon.app/) - Change app icon, need subscribe payment
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
 - (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
@@ -157,6 +158,8 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
+- (**Optional, I haven't installed, not suggested to use**) [Pictogram](https://pictogramapp.com/) - Change app icon, usually don't have files write permission after updating by `chmod 775`
+- (**Optional, I haven't installed, not suggested to use**) [Openonyx](https://github.com/OpenOnyx/OpenOnyx) - Notes app, early release, don't have features that I want
 - (**optional, i haven't installed, not suggested to use**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used, have bugs
 - (**Optional, I haven't installed, not suggested to use**) [Peek](https://justpeek.app/peek/download) - Have major bugs
 - (**Optional, I haven't installed, not suggested to use**) [Focus](https://heyfocus.com/download/) - Have bugs
@@ -172,8 +175,9 @@ Software that needed to be installed
 - (**Optional**) [CC Switch](https://ccswitch.io/zh/download)
 - (**Optional**) [Codexbar](https://github.com/steipete/CodexBar)
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
-- (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
+- (**Optional**) [Codenotch](https://github.com/vinzdg/codenotch)
 - (**Optional, I haven't installed**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
+- (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**Optional, I haven't installed**) [Bruno](https://www.usebruno.com/downloads) - Same function as `postman`, `insomnia`
 - (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
