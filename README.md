@@ -175,6 +175,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
+- (**Optional, I haven't installed**) [Bruno](https://www.usebruno.com/downloads) - Same function as `postman`, `insomnia`
 - (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/) - Docker dashboard
 - (**Optional, I haven't installed**) [Insomnia](https://insomnia.rest/)
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
