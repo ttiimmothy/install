@@ -185,7 +185,7 @@ Software that needed to be installed
 - (**Optional**) [Codexbar](https://github.com/steipete/CodexBar)
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Codenotch](https://github.com/vinzdg/codenotch)
-- (**Optional, I haven't installed**) [Grok Bot](https://x.ai/bot)
+- (**Optional**) [Grok Bot](https://x.ai/bot)
 - (**Optional, I haven't installed**) [Muse AI](https://ai.meta.com/muse/download/)
 - (**Optional, I haven't installed**) [Gemini](https://gemini.google/desktop/)
 - (**Optional, I haven't installed**) [Kimi](https://www.kimi.ai/products/download)
