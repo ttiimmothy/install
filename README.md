@@ -94,7 +94,9 @@ Software that needed to be installed
 - (**Optional**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
+- (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
+- (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
 - (**Optional, I haven't installed**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
@@ -121,13 +123,15 @@ Software that needed to be installed
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/)
 - (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
+- (**Optional, I haven't installed**) [Coucou](https://github.com/louis-cfm/coucou) - Notch
+- (**Optional, I haven't installed**) [Open Design](https://open-design.ai/) - Collaborative design agent workspace
 - (**Optional, I haven't installed**) [Vorssaint](https://vorssaint.com/)
 - (**Optional, I haven't installed**) [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Tilting window manager
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - (**Optional, I haven't installed**) [Better Display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
 - (**Optional, I haven't installed**) [Logi Options+](https://www.logitech.com/en-us/software/options.html) - Mouse configuration
 - (**Optional, I haven't installed**) [iStat Menus](https://bjango.com/mac/istatmenus/) - Check battery temperature
-- (**Optional, I haven't installed**) [Proton VPN](https://protonvpn.com/l/vpn-home?url_id=282&u-tm_campaign=ww-all-2c-vpn-gro_aff-g_acq-partners_program&utm_source=aid-tune-6779&utm_medium=link&utm_term=vpn_home_landing&utm_content=26&phfp=false) - Free to use vpn
+- (**Optional, I haven't installed**) [Proton VPN](https://protonvpn.com/l/vpn-home) - Free to use vpn
 - (**Optional, I haven't installed**) [Ivory](ttps://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon desktop
 - (**Optional, I haven't installed**) [Aeronaut](https://apps.apple.com/us/app/aeronaut-for-bluesky/id6670275450) - Bluesky desktop
 - (**Optional, I haven't installed**) [Descript](https://www.descript.com/download/mac) - AI video editorcodenot
@@ -147,6 +151,8 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**
 - (**Optional, I haven't installed**) [Replacicon](https://replacicon.app/) - Change app icon, need subscribe payment
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
+- (**Optional, I haven't installed**) [Workcat](https://workcat.app/en/) - Part of **drifty**
+- (**Optional, I haven't installed**) [Drify](https://drifty.so/download/) - Focus app
 - (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
@@ -159,6 +165,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
+- (**Optional, I haven't installed, not suggested to use**) [Recordly](https://recordly.dev/) - Screen recording, can replace **screen studio**, but have some major bugs (can't record audio, can't create new screen recordings unless quit the app and open again)
 - (**Optional, I haven't installed, not suggested to use**) [Pictogram](https://pictogramapp.com/) - Change app icon, usually don't have files write permission after updating by `chmod 775`
 - (**Optional, I haven't installed, not suggested to use**) [Openonyx](https://github.com/OpenOnyx/OpenOnyx) - Notes app, early release, don't have features that I want
 - (**optional, i haven't installed, not suggested to use**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used, have bugs
