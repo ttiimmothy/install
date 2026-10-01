@@ -126,6 +126,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Coucou](https://github.com/louis-cfm/coucou) - Notch
 - (**Optional, I haven't installed**) [Open Design](https://open-design.ai/) - Collaborative design agent workspace
 - (**Optional, I haven't installed**) [Vorssaint](https://vorssaint.com/)
+- (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Tilting window manager
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - (**Optional, I haven't installed**) [Better Display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
