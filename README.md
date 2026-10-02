@@ -95,8 +95,8 @@ Software that needed to be installed
 - (**Optional**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
+- (**Optional**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
-- (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
 - (**Optional, I haven't installed**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
