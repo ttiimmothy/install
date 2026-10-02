@@ -98,8 +98,12 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
 - (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
+- (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
+- (**Optional, I haven't installed**) [Coucou](https://github.com/louis-cfm/coucou) - Notch
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Workcat](https://workcat.app/en/) - Part of **drifty**
+- (**Optional, I haven't installed**) [Drify](https://drifty.so/download/) - Focus app
 - (**Optional, I haven't installed**) [Arc](https://arc.net/) 
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
@@ -123,10 +127,8 @@ Software that needed to be installed
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/)
 - (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
-- (**Optional, I haven't installed**) [Coucou](https://github.com/louis-cfm/coucou) - Notch
 - (**Optional, I haven't installed**) [Open Design](https://open-design.ai/) - Collaborative design agent workspace
 - (**Optional, I haven't installed**) [Vorssaint](https://vorssaint.com/)
-- (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Tilting window manager
 - (**Optional, I haven't installed**) [Scroll Reverser](https://pilotmoon.com/scrollreverser/#relnotes) - Reverse scroll direction for mouse
 - (**Optional, I haven't installed**) [Better Display](https://github.com/waydabber/BetterDisplay) - Display settings when I use external monitor
@@ -152,8 +154,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**
 - (**Optional, I haven't installed**) [Replacicon](https://replacicon.app/) - Change app icon, need subscribe payment
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
-- (**Optional, I haven't installed**) [Workcat](https://workcat.app/en/) - Part of **drifty**
-- (**Optional, I haven't installed**) [Drify](https://drifty.so/download/) - Focus app
 - (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
