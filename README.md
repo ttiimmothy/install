@@ -87,18 +87,18 @@ Software that needed to be installed
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional**) [Localsend](https://localsend.org/download)
-- (**Optional**) [Numi](https://numi.app/)
+- (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
+- (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
+- (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional**) [Tailscale](https://tailscale.com/download)
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
-- (**Optional, I haven't installed**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
+- (**Optional, I haven't installed**) [Numi](https://numi.app/)
 - (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
-- (**Optional, I haven't installed**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
-- (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Arc](https://arc.net/) 
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
@@ -159,7 +159,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
-- (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API (can't be free)
+- (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API (it isn't free)
 - (**Optional, I haven't installed**) [Macuse](https://macuse.app/) - Sudden quit sometimes, need subscribe payment to connect more than 1 connectors
 - (**Optional, I haven't installed**) [Tomatobar](https://github.com/ivoronin/TomatoBar) - Focus app
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
