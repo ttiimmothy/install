@@ -95,6 +95,7 @@ Software that needed to be installed
 - (**Optional**) [Today](https://sindresorhus.com/today)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
+- (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
@@ -106,19 +107,21 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Workcat](https://workcat.app/en/) - Part of **drifty**
 - (**Optional, I haven't installed**) [Drify](https://drifty.so/download/) - Focus app
-- (**Optional, I haven't installed**) [Arc](https://arc.net/) 
+- (**Optional, I haven't installed**) [Loom](https://www.loom.com/download)
+- (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
+- (**Optional, I haven't installed**) [Arc](https://arc.net/)
+- (**Optional, I haven't installed**) [Dia](https://www.diabrowser.com/)
+- (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 - (**Optional, I haven't installed**) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
-- (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
-- (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
 - (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
-- (**Optional, I haven't installed**) [Sip](https://sipapp.io/) - Color picker
+- (**Optional, I haven't installed**) [Sip](https://sipapp.io/) - Color picker, need subscribe payment after trial
 - (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
 - (**Optional, I haven't installed**) [Audio Hijack](https://rogueamoeba.com/audiohijack/)
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
@@ -154,8 +157,10 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Quill](https://github.com/humanitas-labs/quill) - Meeting recorder and transcriber
 - (**Optional, I haven't installed**) [Parrot](https://github.com/humanitas-labs/parrot) - Dictation
 - (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**
+- (**Optional, I haven't installed**) [Focus](https://heyfocus.com/download/)
 - (**Optional, I haven't installed**) [Replacicon](https://replacicon.app/) - Change app icon, need subscribe payment
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
+- (**Optional, I haven't installed**) [Notomo](https://notomo.app/) - Quick access and AI features for Apple notes
 - (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
@@ -168,12 +173,12 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
+- (**Optional, I haven't installed, not suggested to use**) [Dial](https://www.dial.software/download) - Menu bar icon has ui bugs
 - (**Optional, I haven't installed, not suggested to use**) [Recordly](https://recordly.dev/) - Screen recording, can replace **screen studio**, but have some major bugs (can't record audio, can't create new screen recordings unless quit the app and open again)
 - (**Optional, I haven't installed, not suggested to use**) [Pictogram](https://pictogramapp.com/) - Change app icon, usually don't have files write permission after updating by `chmod 775`
 - (**Optional, I haven't installed, not suggested to use**) [Openonyx](https://github.com/OpenOnyx/OpenOnyx) - Notes app, early release, don't have features that I want
 - (**optional, i haven't installed, not suggested to use**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used, have bugs
 - (**Optional, I haven't installed, not suggested to use**) [Peek](https://justpeek.app/peek/download) - Have major bugs
-- (**Optional, I haven't installed, not suggested to use**) [Focus](https://heyfocus.com/download/) - Have bugs
 - (**Optional, I haven't installed, can't download anymore**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser, **OpenAI don't maintain anymore**
 - (**Optional, I haven't installed, can't download anymore**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor, **install link is deleted**
 - (**Optional, I haven't installed, can't download anymore**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor, **install link is deleted**
@@ -188,10 +193,10 @@ Software that needed to be installed
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Codenotch](https://github.com/vinzdg/codenotch)
 - (**Optional**) [Grok Bot](https://x.ai/bot)
+- (**Optional**) [MiniMax Code](https://agent.minimax.io/download)
 - (**Optional, I haven't installed**) [Muse AI](https://ai.meta.com/muse/download/)
 - (**Optional, I haven't installed**) [Gemini](https://gemini.google/desktop/)
 - (**Optional, I haven't installed**) [Kimi](https://www.kimi.ai/products/download)
-- (**Optional, I haven't installed**) [MiniMax Code](https://agent.minimax.io/download)
 - (**Optional, I haven't installed**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
 - (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
@@ -205,6 +210,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Framer](https://www.framer.com/)
 - (**Optional, I haven't installed**) [Attio](https://attio.com/download) - CRM
 - (**Optional, I haven't installed**) [Asana](https://asana.com/download)
+- (**Optional, I haven't installed**) [Clickup](https://clickup.com/download)
 - (**Optional, I haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional, I haven't installed**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional, I haven't installed**) [Podman Desktop](https://podman.io/)
