@@ -95,6 +95,7 @@ Software that needed to be installed
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Today](https://sindresorhus.com/today)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
+- (**Optional**) [Dropbox](https://www.dropbox.com/install)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
@@ -109,6 +110,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
+- (**Optional, I haven't installed**) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
