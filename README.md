@@ -93,6 +93,7 @@ Software that needed to be installed
 - (**Optional**) [Lookaway](https://lookaway.com/download/) - Tell you to rest
 - (**Optional**) [Tailscale](https://tailscale.com/download)
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
+- (**Optional**) [Today](https://sindresorhus.com/today)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
@@ -146,8 +147,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
 - (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording
 - (**Optional, I haven't installed**) [Keeping you awake](https://keepingyouawake.app/) - Useful when I download files and I don't want the laptop to sleep, replacement of [`caffeinate`](https://james.brooks.page/blog/macos-caffeinate-command) command, can be replaced by **`Raycast`**
-- (**Optional, I haven't installed**) [Velja](https://apps.apple.com/us/app/velja/id1607635845) - Browser picker, need subscribe payment ($10), have **paw menu bar icon**
-- (**Optional, I haven't installed**) [Today](https://sindresorhus.com/today)
+- (**Optional, I haven't installed**) [Velja](https://sindresorhus.com/velja) - Browser picker, have **paw menu bar icon**
 - (**Optional, I haven't installed**) [Horizon](https://peterdpong.com/horizon)
 - (**Optional, I haven't installed**) [Quill](https://github.com/humanitas-labs/quill) - Meeting recorder and transcriber
 - (**Optional, I haven't installed**) [Parrot](https://github.com/humanitas-labs/parrot) - Dictation
