@@ -94,6 +94,7 @@ Software that needed to be installed
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Today](https://sindresorhus.com/today)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
+- (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
@@ -132,7 +133,6 @@ Software that needed to be installed
 - (**optional, I haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/)
 - (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
-- (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
 - (**Optional, I haven't installed**) [Open Design](https://open-design.ai/) - Collaborative design agent workspace
 - (**Optional, I haven't installed**) [Vorssaint](https://vorssaint.com/)
 - (**Optional, I haven't installed**) [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Tilting window manager
