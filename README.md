@@ -200,7 +200,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Kimi](https://www.kimi.ai/products/download)
 - (**Optional, I haven't installed**) [Deepseek Harness](https://www.deepseek.com/en/harness/)
 - (**Optional, I haven't installed**) [Qwen](https://qwen.ai/download)
-- (**Optional, I haven't installed**) [Zcode](https://zcode.z.ai/en/docs/install)
+- (**Optional, I haven't installed**) [Zcode](https://zcode.z.ai/en/docs/install) - From z.ai
 - (**Optional, I haven't installed**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
 - (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
