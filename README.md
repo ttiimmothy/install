@@ -238,6 +238,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [WhatsApp](https://www.whatsapp.com/download/)
 - (**Optional, I haven't installed**) [Signal](https://signal.org/download/)
 - (**Optional, I haven't installed**) [Telegram](https://macos.telegram.org/)
+- (**Optional, I haven't installed**) [Wechat](https://mac.weixin.qq.com/en)
 - (**Optional, I haven't installed**) [Spotify](https://www.spotify.com/us/download/mac/)
 
 ## Useful websites
