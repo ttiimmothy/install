@@ -97,6 +97,7 @@ Software that needed to be installed
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
+- (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
@@ -156,7 +157,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Horizon](https://peterdpong.com/horizon)
 - (**Optional, I haven't installed**) [Quill](https://github.com/humanitas-labs/quill) - Meeting recorder and transcriber
 - (**Optional, I haven't installed**) [Parrot](https://github.com/humanitas-labs/parrot) - Dictation
-- (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**
+- (**Optional, I haven't installed**) [Blip](https://blip.net/download) - Connect to Android, Linux, Apple devices, have **capitalized B menu bar icon**, features like `droppy`
 - (**Optional, I haven't installed**) [Focus](https://heyfocus.com/download/)
 - (**Optional, I haven't installed**) [Replacicon](https://replacicon.app/) - Change app icon, need subscribe payment
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
@@ -166,7 +167,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
-- (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API (it isn't free)
 - (**Optional, I haven't installed**) [Macuse](https://macuse.app/) - Sudden quit sometimes, need subscribe payment to connect more than 1 connectors
 - (**Optional, I haven't installed**) [Tomatobar](https://github.com/ivoronin/TomatoBar) - Focus app
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
@@ -197,6 +197,7 @@ Software that needed to be installed
 - (**Optional**) [MiniMax Code](https://agent.minimax.io/download)
 - (**Optional, I haven't installed**) [Muse AI](https://ai.meta.com/muse/download/)
 - (**Optional, I haven't installed**) [Gemini](https://gemini.google/desktop/)
+- (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650)
 - (**Optional, I haven't installed**) [Kimi](https://www.kimi.ai/products/download)
 - (**Optional, I haven't installed**) [Deepseek Harness](https://www.deepseek.com/en/harness/)
 - (**Optional, I haven't installed**) [Qwen](https://qwen.ai/download) - From Alibaba
@@ -220,7 +221,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Open WebUI](https://github.com/open-webui/open-webui) - Large langauge model interface (web application)
 - (**Optional, I haven't installed**) [Ollama](https://ollama.com/download) - Large langauge model server
 - (**Optional, I haven't installed**) [Podman Desktop](https://podman.io/)
-- (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650)
 - (**Optional, I haven't installed**) [Expo Orbit](https://expo.dev/orbit) 
 - (**Optional, I haven't installed**) [Goose](https://block.github.io/goose/docs/getting-started/installation/) - AI agent can connect with Ollama to build codes
 - (**Optional, I haven't installed**) [Solidtime](https://github.com/solidtime-io/solidtime-desktop) - Time tracker for the projects
