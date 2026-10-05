@@ -123,6 +123,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
 - (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
+- (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Sip](https://sipapp.io/) - Color picker, need subscribe payment after trial
 - (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
 - (**Optional, I haven't installed**) [Audio Hijack](https://rogueamoeba.com/audiohijack/)
@@ -133,7 +134,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [BetterTouchTool](https://folivora.ai/downloads)
 - (**optional, I haven't installed**) [Keka](https://www.keka.io/en/) - Tool to extract `.rar` folder
 - (**optional, i haven't installed**) [BetterMouse](https://better-mouse.com/)
-- (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Open Design](https://open-design.ai/) - Collaborative design agent workspace
 - (**Optional, I haven't installed**) [Vorssaint](https://vorssaint.com/)
 - (**Optional, I haven't installed**) [AeroSpace](https://github.com/nikitabobko/AeroSpace) - Tilting window manager
