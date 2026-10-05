@@ -167,7 +167,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
-- (**Optional, I haven't installed**) [Macuse](https://macuse.app/) - Sudden quit sometimes, need subscribe payment to connect more than 1 connectors
+- (**Optional, I haven't installed**) [Macuse](https://macuse.app/) - Sudden quit sometimes, need subscribe payment to connect more than 1 connectors, always pop up window next to menu bar icon to ask for connections
 - (**Optional, I haven't installed**) [Tomatobar](https://github.com/ivoronin/TomatoBar) - Focus app
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
