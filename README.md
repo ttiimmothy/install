@@ -88,14 +88,15 @@ Software that needed to be installed
 - (**Optional**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
+- (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
+- (**Optional**) [Dropbox](https://www.dropbox.com/install)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Tailscale](https://tailscale.com/download)
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Today](https://sindresorhus.com/today)
-- (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional**) [Stats](https://mac-stats.com/)
-- (**Optional**) [Dropbox](https://www.dropbox.com/install)
+- (**Optional**) [Rectange](https://rectangleapp.com/)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
@@ -122,7 +123,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
-- (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
 - (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Sip](https://sipapp.io/) - Color picker, need subscribe payment after trial
 - (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
