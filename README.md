@@ -172,7 +172,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
 - (**Optional, I haven't installed**) [Cold turkey](https://getcoldturkey.com/) - **`self control`** replacement
-- (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
+- (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download) - From bytedance
 - (**Optional, I haven't installed**) [iQiyi](https://www.iq.com/download?lang=en_us)
 - (**Optional, I haven't installed, not suggested to use**) [Dial](https://www.dial.software/download) - Menu bar icon has ui bugs
 - (**Optional, I haven't installed, not suggested to use**) [Recordly](https://recordly.dev/) - Screen recording, can replace **screen studio**, but have some major bugs (can't record audio, can't create new screen recordings unless quit the app and open again)
@@ -200,10 +200,10 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650)
 - (**Optional, I haven't installed**) [Kimi](https://www.kimi.ai/products/download)
 - (**Optional, I haven't installed**) [Deepseek Harness](https://www.deepseek.com/en/harness/)
-- (**Optional, I haven't installed**) [Qwen](https://qwen.ai/download) - From Alibaba
+- (**Optional, I haven't installed**) [Qwen](https://qwen.ai/download) - From alibaba
 - (**Optional, I haven't installed**) [Zcode](https://zcode.z.ai/en/docs/install) - From z.ai
 - (**Optional, I haven't installed**) [Yuanbao](https://yuanbao.tencent.com/download)
-- (**Optional, I haven't installed**) [Wenxin](https://www.wenxiaoyan.com/pc) - From Baidu
+- (**Optional, I haven't installed**) [Wenxin](https://www.wenxiaoyan.com/pc) - From baidu
 - (**Optional, I haven't installed**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
 - (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
 - (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
