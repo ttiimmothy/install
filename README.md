@@ -96,10 +96,11 @@ Software that needed to be installed
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Today](https://sindresorhus.com/today)
 - (**Optional**) [Stats](https://mac-stats.com/)
-- (**Optional**) [Rectange](https://rectangleapp.com/)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
+- (**Optional**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
 - (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
+- (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
@@ -125,7 +126,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
 - (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
-- (**Optional, I haven't installed**) [Sip](https://sipapp.io/) - Color picker, need subscribe payment after trial
 - (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
 - (**Optional, I haven't installed**) [Audio Hijack](https://rogueamoeba.com/audiohijack/)
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
