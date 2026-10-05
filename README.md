@@ -98,6 +98,7 @@ Software that needed to be installed
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [Rectange](https://rectangleapp.com/)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
+- (**Optional**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
 - (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
