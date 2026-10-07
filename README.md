@@ -92,7 +92,6 @@ Software that needed to be installed
 - (**Optional**) [Otter](https://otter.ai/integrations/desktop)
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
-- (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Tailscale](https://tailscale.com/download)
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Today](https://sindresorhus.com/today)
@@ -101,8 +100,9 @@ Software that needed to be installed
 - (**Optional**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
 - (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional**) [Rectange](https://rectangleapp.com/)
-- (**Optional, I haven't installed**) [AltTab](https://alt-tab.app/download)
+- (**Optional**) [AltTab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
+- (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
 - (**Optional, I haven't installed**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
