@@ -98,12 +98,13 @@ Software that needed to be installed
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
-- (**Optional**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
 - (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional**) [Rectange](https://rectangleapp.com/)
+- (**Optional**) [Unsplash Wallpaper](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
+- (**Optional, I haven't installed**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
 - (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
 - (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
@@ -149,7 +150,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/edit) - Video editor
 - (**Optional, I haven't installed**) [Affinity Photo 2](https://store.serif.com/en-gb/account/downloads/) - Replacement of Photoshop 
 - (**Optional, I haven't installed**) [Adobe Premiere Pro](https://www.adobe.com/ca/products/premiere.html) - Video editor
-- (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/za/app/unsplash-wallpapers/id1284863847)
 - (**Optional, I haven't installed**) [Yoink](https://eternalstorms.at/yoink/mac/) - File shelf
 - (**Optional, I haven't installed**) [OBS](https://obsproject.com/) - Streaming and recording
 - (**Optional, I haven't installed**) [Cluely](https://cluely.com/) - Inivisible AI recording
