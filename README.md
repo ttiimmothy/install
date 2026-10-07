@@ -100,7 +100,7 @@ Software that needed to be installed
 - (**Optional**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
 - (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional**) [Rectange](https://rectangleapp.com/)
-- (**Optional**) [Unsplash Wallpaper](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847)
+- (**Optional**) [AltTab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
@@ -113,6 +113,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
 - (**Optional, I haven't installed**) [Workcat](https://workcat.app/en/) - Part of **drifty**
 - (**Optional, I haven't installed**) [Drify](https://drifty.so/download/) - Focus app
+- (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847)
 - (**Optional, I haven't installed**) [Loom](https://www.loom.com/download)
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Arc](https://arc.net/)
@@ -126,7 +127,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
-- (**Optional, I haven't installed**) [Alt-tab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
 - (**Optional, I haven't installed**) [Audio Hijack](https://rogueamoeba.com/audiohijack/)
 - (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
