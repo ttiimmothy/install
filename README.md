@@ -169,6 +169,8 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
 - (**Optional, I haven't installed**) [Glyf](https://glyf.molovo.co/)
+- (**Optional, I haven't installed**) [Sharee](https://www.sharee.app/)
+- (**Optional, I haven't installed**) [Soduto](https://soduto.com/)
 - (**Optional, I haven't installed**) [Tomatobar](https://github.com/ivoronin/TomatoBar) - Focus app
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
