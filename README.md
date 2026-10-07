@@ -250,6 +250,7 @@ Software that needed to be installed
 
 - [DrawSQL](https://drawsql.app/diagrams) - Illustration of SQL tables
 - [Mac Menubar Apps](https://macmenubar.app/)
+- [SankeyMatic](https://sankeymatic.com/) - Draw diagram
 
 ## CLI (Command line interface)
 
