@@ -27,6 +27,7 @@ Software that needed to be installed
 1. (**optional, i haven't installed**) [Windsurf](https://windsurf.com/editor) - AI editor built on Vscode
 1. (**Optional, I haven't installed**) [PearAI](https://trypear.ai/)
 1. (**Optional, I haven't installed**) [Kiro](https://kiro.dev/downloads/) - Amazon version of Vscode
+1. (**Optional, I haven't installed**) [Snowflake Coco](https://www.snowflake.com/en/product/snowflake-coco/)
 1. (**Optional, I haven't installed**) [Android Studio](https://developer.android.com/studio)
 1. (**Optional, I haven't installed**) [Pycharm (Community Edition)](https://www.jetbrains.com/pycharm/download/?section=mac)
 1. (**Optional, I haven't installed**) [Intellij (Community Edition)](https://www.jetbrains.com/idea/download/?section=mac)
