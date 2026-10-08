@@ -90,7 +90,6 @@ Software that needed to be installed
 - (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
-- (**Optional**) [Otter](https://otter.ai/integrations/desktop)
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
 - (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
@@ -100,13 +99,14 @@ Software that needed to be installed
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
-- (**Optional**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
-- (**Optional**) [Rectange](https://rectangleapp.com/)
 - (**Optional**) [AltTab](https://alt-tab.app/download)
+- (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
+- (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional, I haven't installed**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
+- (**Optional, I haven't installed**) [Otter](https://otter.ai/integrations/desktop)
 - (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
 - (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
