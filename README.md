@@ -98,11 +98,10 @@ Software that needed to be installed
 - (**Optional**) [Today](https://sindresorhus.com/today)
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
-- (**Optional**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
 - (**Optional**) [AltTab](https://alt-tab.app/download)
 - (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
-- (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
+- (**Optional, I haven't installed**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
 - (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional, I haven't installed**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
@@ -111,8 +110,9 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
 - (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest, need subscribe payment after trial period, sometimes pop up window to remind to buy license after trial
-- (**Optional, I haven't installed**) [Coucou](https://github.com/louis-cfm/coucou) - Notch
+- (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Coucou](https://github.com/louis-cfm/coucou) - Notch
 - (**Optional, I haven't installed**) [Workcat](https://workcat.app/en/) - Part of **drifty**
 - (**Optional, I haven't installed**) [Drify](https://drifty.so/download/) - Focus app
 - (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847)
