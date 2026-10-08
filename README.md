@@ -91,7 +91,6 @@ Software that needed to be installed
 - (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
-- (**Optional**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Tailscale](https://tailscale.com/download)
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
@@ -99,6 +98,7 @@ Software that needed to be installed
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional**) [AltTab](https://alt-tab.app/download)
+- (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Rectange](https://rectangleapp.com/)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
