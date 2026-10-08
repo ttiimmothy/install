@@ -200,10 +200,10 @@ Software that needed to be installed
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Codenotch](https://github.com/vinzdg/codenotch)
 - (**Optional**) [Grok Bot](https://x.ai/bot)
-- (**Optional**) [MiniMax Code](https://agent.minimax.io/download)
 - (**Optional, I haven't installed**) [Muse AI](https://ai.meta.com/muse/download/)
 - (**Optional, I haven't installed**) [Gemini](https://gemini.google/desktop/)
 - (**Optional, I haven't installed**) [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650)
+- (**Optional, I haven't installed**) [MiniMax Code](https://agent.minimax.io/download)
 - (**Optional, I haven't installed**) [Kimi](https://www.kimi.ai/products/download)
 - (**Optional, I haven't installed**) [Deepseek Harness](https://www.deepseek.com/en/harness/)
 - (**Optional, I haven't installed**) [Qwen](https://qwen.ai/download) - From alibaba
