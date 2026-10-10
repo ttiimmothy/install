@@ -94,10 +94,10 @@ Software that needed to be installed
 - (**Optional**) [Tailscale](https://tailscale.com/download)
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
 - (**Optional**) [Today](https://sindresorhus.com/today)
-- (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional**) [Rectange](https://rectangleapp.com/)
 - (**Optional**) [AltTab](https://alt-tab.app/download)
+- (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
 - (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
