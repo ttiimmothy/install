@@ -82,6 +82,7 @@ Software that needed to be installed
 - (**Optional**) [Nordpass](https://nordpass.com/download/macos/)
 - (**Optional**) [1Password](https://1password.com/downloads/mac)
 - (**Optional**) [KeePass](https://keepassxc.org/)
+- (**Optional**) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 - (**Optional**) [Maccy](https://github.com/p0deje/Maccy)
 - (**Optional**) [Pika](https://superhighfives.com/pika)
 - (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
@@ -124,7 +125,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
-- (**Optional, I haven't installed**) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
