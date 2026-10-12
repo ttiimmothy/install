@@ -193,12 +193,12 @@ Software that needed to be installed
 ## Software for development
 
 - (**Optional**) [Claude Desktop](https://claude.ai/download) - Large langauge model client (desktop application, able to use model context protocol)
-- (**Optional**) [ChatGPT Desktop](https://openai.com/chatgpt/download/)
 - (**optional**) [Linear](https://linear.app/download)
 - (**Optional**) [CC Switch](https://ccswitch.io/zh/download)
 - (**Optional**) [Codexbar](https://github.com/steipete/CodexBar)
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Codenotch](https://github.com/vinzdg/codenotch)
+- (**Optional, I haven't installed**) [ChatGPT Desktop](https://openai.com/chatgpt/download/)
 - (**Optional, I haven't installed**) [Grok Bot](https://x.ai/bot)
 - (**Optional, I haven't installed**) [Muse AI](https://ai.meta.com/muse/download/)
 - (**Optional, I haven't installed**) [Gemini](https://gemini.google/desktop/)
