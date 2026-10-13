@@ -127,6 +127,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 - (**Optional, I haven't installed**) [Aldente](https://apphousekitchen.com/aldente-overview/) - Can keep using the charger power after a specific percent battery power instead of charging the battery to 100% (charge limiter), keep battery health
 - (**Optional, I haven't installed**) [Final Cut Pro Trial](https://www.apple.com/ca/final-cut-pro/) - Video editor
+- (**Optional, I haven't installed**) [Plexo](https://getplexo.app/#downloads) - Download faster
 - (**Optional, I haven't installed**) [KeyCastr](https://github.com/keycastr/keycastr) - Share your keystrokes
 - (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
 - (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
