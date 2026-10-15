@@ -90,6 +90,7 @@ Software that needed to be installed
 - (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
+- (**Optional**) [Typeless](https://www.typeless.com/congratulations-mac)
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Tailscale](https://tailscale.com/download)
