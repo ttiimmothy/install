@@ -200,7 +200,8 @@ Software that needed to be installed
 - (**Optional**) [Codexbar](https://github.com/steipete/CodexBar)
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Codenotch](https://github.com/vinzdg/codenotch)
-- (**Optional, I haven't installed**) [ChatGPT Desktop](https://openai.com/chatgpt/download/)
+- (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/)
+- (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/)
 - (**Optional, I haven't installed**) [Grok Bot](https://x.ai/bot)
 - (**Optional, I haven't installed**) [Muse AI](https://ai.meta.com/muse/download/)
 - (**Optional, I haven't installed**) [Gemini](https://gemini.google/desktop/)
@@ -218,7 +219,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Bruno](https://www.usebruno.com/downloads) - Same function as `postman`, `insomnia`
 - (**Optional, I haven't installed**) [Insomnia](https://insomnia.rest/)
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
-- (**Optional, I haven't installed**) [Docker](https://docs.docker.com/desktop/install/mac-install/)
 - (**Optional, I haven't installed**) [Github Desktop](https://desktop.github.com/download/)
 - (**Optional, I haven't installed**) [Blender](https://www.blender.org/download/)
 - (**Optional, I haven't installed**) [Figma](https://www.figma.com/downloads/)
