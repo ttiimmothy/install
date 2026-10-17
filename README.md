@@ -71,6 +71,7 @@ Software that needed to be installed
 
 ## Software related to macbook productivity
 
+- [Tinycast](https://tinycast.dev/)
 - [Raycast](https://raycast.com/)
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
 - [Safari](https://www.apple.com/ca/safari/)
