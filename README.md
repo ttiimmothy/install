@@ -100,6 +100,7 @@ Software that needed to be installed
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional**) [Rectange](https://rectangleapp.com/)
 - (**Optional**) [AltTab](https://alt-tab.app/download)
+- (**Optional**) [Brave](https://brave.com/)
 - (**Optional, I haven't installed**) [Stats](https://mac-stats.com/)
 - (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
