@@ -75,7 +75,8 @@ Software that needed to be installed
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
 - [Safari](https://www.apple.com/ca/safari/)
 - [Comet](https://www.perplexity.ai/comet) - Perplexity browser
-- (**Optional**) [Obsidian](https://obsidian.md)
+- [Obsidian](https://obsidian.md)
+- (**Optional**) [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - `brew install hammerspoon`
 - (**Optional**) [Notion](https://www.notion.com/desktop)
 - (**Optional**) [Inkdrop](https://my.inkdrop.app/download)
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/)
