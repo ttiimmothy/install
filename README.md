@@ -71,30 +71,30 @@ Software that needed to be installed
 
 ## Software related to macbook productivity
 
-- [Tinycast](https://tinycast.dev/)
 - [Raycast](https://raycast.com/)
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/)
 - [Safari](https://www.apple.com/ca/safari/)
 - [Comet](https://www.perplexity.ai/comet) - Perplexity browser
 - [Obsidian](https://obsidian.md)
-- (**Optional**) [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - `brew install hammerspoon`
 - (**Optional**) [Notion](https://www.notion.com/desktop)
-- (**Optional**) [Inkdrop](https://my.inkdrop.app/download)
+- (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional**) [NordVPN](https://nordvpn.com/download/mac/)
 - (**Optional**) [Nordpass](https://nordpass.com/download/macos/)
 - (**Optional**) [1Password](https://1password.com/downloads/mac)
 - (**Optional**) [KeePass](https://keepassxc.org/)
-- (**Optional**) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
+- (**Optional**) [Inkdrop](https://my.inkdrop.app/download)
 - (**Optional**) [Maccy](https://github.com/p0deje/Maccy)
-- (**Optional**) [Pika](https://superhighfives.com/pika)
 - (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
-- (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
+- (**Optional**) [Pika](https://superhighfives.com/pika)
+- (**Optional**) [Dropbox](https://www.dropbox.com/install)
+- (**Optional**) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 - (**Optional**) [Localsend](https://localsend.org/download)
-- (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional**) [Typeless](https://www.typeless.com/congratulations-mac)
 - (**Optional**) [Brave](https://brave.com/)
-- (**Optional**) [Dropbox](https://www.dropbox.com/install)
+- (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
+- (**Optional**) [Tinycast](https://tinycast.dev/)
+- (**Optional**) [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - `brew install hammerspoon`
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Tailscale](https://tailscale.com/download)
 - (**Optional**) [RunCatNeo](https://runcat-dev.github.io/RunCatNeo/)
@@ -120,7 +120,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Coucou](https://github.com/louis-cfm/coucou) - Notch
 - (**Optional, I haven't installed**) [Workcat](https://workcat.app/en/) - Part of **drifty**
 - (**Optional, I haven't installed**) [Drify](https://drifty.so/download/) - Focus app
-- (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847)
 - (**Optional, I haven't installed**) [Loom](https://www.loom.com/download)
 - (**Optional, I haven't installed**) [Zoom](https://zoom.us/download)
 - (**Optional, I haven't installed**) [Arc](https://arc.net/)
@@ -178,6 +177,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Glyf](https://glyf.molovo.co/)
 - (**Optional, I haven't installed**) [Sharee](https://www.sharee.app/)
 - (**Optional, I haven't installed**) [Soduto](https://soduto.com/)
+- (**Optional, I haven't installed**) [Unsplash Wallpaper](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847)
 - (**Optional, I haven't installed**) [Tomatobar](https://github.com/ivoronin/TomatoBar) - Focus app
 - (**Optional, I haven't installed**) [Feishu](https://www.feishu.cn/download)
 - (**Optional, I haven't installed**) [Self control](https://selfcontrolapp.com/) - Can use to block the websites addicted to, like **youtube**, **instagram**
@@ -204,6 +204,7 @@ Software that needed to be installed
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Codenotch](https://github.com/vinzdg/codenotch)
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/)
+- (**Optional**) [Postman](https://www.postman.com/downloads/)
 - (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/)
 - (**Optional, I haven't installed**) [Grok Bot](https://x.ai/bot)
 - (**Optional, I haven't installed**) [Muse AI](https://ai.meta.com/muse/download/)
@@ -218,7 +219,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Wenxin](https://www.wenxiaoyan.com/pc) - From baidu
 - (**Optional, I haven't installed**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
 - (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
-- (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**Optional, I haven't installed**) [Bruno](https://www.usebruno.com/downloads) - Same function as `postman`, `insomnia`
 - (**Optional, I haven't installed**) [Insomnia](https://insomnia.rest/)
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
