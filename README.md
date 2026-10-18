@@ -93,6 +93,7 @@ Software that needed to be installed
 - (**Optional**) [Notion Calendar](https://www.notion.com/product/calendar/download/desktop)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional**) [Typeless](https://www.typeless.com/congratulations-mac)
+- (**Optional**) [Brave](https://brave.com/)
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Tailscale](https://tailscale.com/download)
@@ -101,15 +102,14 @@ Software that needed to be installed
 - (**Optional**) [TextGrabber2](https://github.com/TextGrabber2-app/TextGrabber2)
 - (**Optional**) [Rectange](https://rectangleapp.com/)
 - (**Optional**) [AltTab](https://alt-tab.app/download)
-- (**Optional**) [Brave](https://brave.com/)
 - (**Optional**) [Stats](https://mac-stats.com/)
+- (**Optional**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
 - (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
 - (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
-- (**Optional, I haven't installed**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
 - (**Optional, I haven't installed**) [Otter](https://otter.ai/integrations/desktop)
 - (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
 - (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
