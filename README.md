@@ -204,7 +204,8 @@ Software that needed to be installed
 - (**Optional**) [SourceTree](https://www.sourcetreeapp.com/) - Visual panel for `git control`
 - (**Optional**) [Codenotch](https://github.com/vinzdg/codenotch)
 - (**Optional**) [Docker](https://docs.docker.com/desktop/install/mac-install/)
-- (**Optional**) [Postman](https://www.postman.com/downloads/)
+- (**Optional**) [Bruno](https://www.usebruno.com/downloads) - Same function as `postman`, `insomnia`
+- (**Optional, I haven't installed**) [Postman](https://www.postman.com/downloads/)
 - (**Optional, I haven't installed**) [ChatGPT](https://openai.com/chatgpt/download/)
 - (**Optional, I haven't installed**) [Grok Bot](https://x.ai/bot)
 - (**Optional, I haven't installed**) [Muse AI](https://ai.meta.com/muse/download/)
@@ -219,7 +220,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Wenxin](https://www.wenxiaoyan.com/pc) - From baidu
 - (**Optional, I haven't installed**) [Claude Status Bar](https://github.com/m1ckc3s/claude-status-bar) - `brew install claude-status-bar`
 - (**Optional, I haven't installed**) [Wasdy](https://wasdy.app/) - Skills, MCP manager
-- (**Optional, I haven't installed**) [Bruno](https://www.usebruno.com/downloads) - Same function as `postman`, `insomnia`
 - (**Optional, I haven't installed**) [Insomnia](https://insomnia.rest/)
 - (**Optional, I haven't installed**) [Godot](https://godotengine.org/download/macos/)
 - (**Optional, I haven't installed**) [Github Desktop](https://desktop.github.com/download/)
