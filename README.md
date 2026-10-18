@@ -104,6 +104,7 @@ Software that needed to be installed
 - (**Optional**) [AltTab](https://alt-tab.app/download)
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
+- (**Optional**) [DeepL](https://www.deepl.com/en/macos-app) - Instant translator
 - (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
