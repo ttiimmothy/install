@@ -104,7 +104,6 @@ Software that needed to be installed
 - (**Optional**) [AltTab](https://alt-tab.app/download)
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
-- (**Optional**) [DeepL](https://www.deepl.com/en/macos-app) - Instant translator
 - (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
@@ -190,8 +189,9 @@ Software that needed to be installed
 - (**Optional, I haven't installed, not suggested to use**) [Recordly](https://recordly.dev/) - Screen recording, can replace **screen studio**, but have some major bugs (can't record audio, can't create new screen recordings unless quit the app and open again)
 - (**Optional, I haven't installed, not suggested to use**) [Pictogram](https://pictogramapp.com/) - Change app icon, usually don't have files write permission after updating by `chmod 775`
 - (**Optional, I haven't installed, not suggested to use**) [Openonyx](https://github.com/OpenOnyx/OpenOnyx) - Notes app, early release, don't have features that I want
-- (**optional, i haven't installed, not suggested to use**) [SteerMouse](https://plentycom.jp/en/steermouse/) - can't open after allowing accessibility control, so this app can't be used, have bugs
+- (**optional, i haven't installed, not suggested to use**) [SteerMouse](https://plentycom.jp/en/steermouse/) - Can't open after allowing accessibility control, so this app can't be used, have bugs
 - (**Optional, I haven't installed, not suggested to use**) [Peek](https://justpeek.app/peek/download) - Have major bugs
+- (**Optiona, I haven't installed, not suggested to use**) [DeepL](https://www.deepl.com/en/macos-app) - Instant translator, can't translate simplified chinese to traditional chinese, translate simplified chinese to simplified chinese (no change at all)
 - (**Optional, I haven't installed, can't download anymore**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser, **OpenAI don't maintain anymore**
 - (**Optional, I haven't installed, can't download anymore**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor, **install link is deleted**
 - (**Optional, I haven't installed, can't download anymore**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor, **install link is deleted**
