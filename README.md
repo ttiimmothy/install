@@ -54,6 +54,7 @@ Software that needed to be installed
 - [Return YouTube Dislike](https://chromewebstore.google.com/detail/gebbhagfogifgggkldgodflihgfeippi)
 - [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US&utm_source=ext_sidebar) - Run user script in the browser
 - [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) 
+- (**Optional**) [Instagram Reels Progress Bar](https://chromewebstore.google.com/detail/instagram-reels-progress/jahkjaheehohdaehigjiekbfliegofdo)
 - (**Optional, I haven't installed**) [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Add custom css to the website
 - (**Optional, I haven't installed**) [DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj) - Remove the exaggerated thumbnails and titles for youtube videos
 - (**Optional, I haven't installed**) [Adblock](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
