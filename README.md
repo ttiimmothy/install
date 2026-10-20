@@ -193,8 +193,9 @@ Software that needed to be installed
 - (**Optional, I haven't installed, not suggested to use**) [Openonyx](https://github.com/OpenOnyx/OpenOnyx) - Notes app, early release, don't have features that I want
 - (**optional, i haven't installed, not suggested to use**) [SteerMouse](https://plentycom.jp/en/steermouse/) - Can't open after allowing accessibility control, so this app can't be used, have bugs
 - (**Optional, I haven't installed, not suggested to use**) [Peek](https://justpeek.app/peek/download) - Have major bugs
-- (**Optiona, I haven't installed, not suggested to use**) [DeepL](https://www.deepl.com/en/macos-app) - Instant translator, can't translate simplified chinese to traditional chinese, translate simplified chinese to simplified chinese (no change at all)
-- (**Optiona, I haven't installed, not suggested to use**) [Use.fo](https://www.use.fo/download) - Login fetch error, but it can only use after login
+- (**Optional, I haven't installed, not suggested to use**) [DeepL](https://www.deepl.com/en/macos-app) - Instant translator, can't translate simplified chinese to traditional chinese, translate simplified chinese to simplified chinese (no change at all)
+- (**Optional, I haven't installed, not suggested to use**) [Use.fo](https://www.use.fo/download) - Login fetch error, but it can only use after login
+- (**Optional, I haven't installe, not suggested to use***) [Citrix](https://www.citrix.com/downloads/workspace-app/) - Workspace app, need to be under a Citrix registered orgaization to use the app
 - (**Optional, I haven't installed, can't download anymore**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser, **OpenAI don't maintain anymore**
 - (**Optional, I haven't installed, can't download anymore**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor, **install link is deleted**
 - (**Optional, I haven't installed, can't download anymore**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor, **install link is deleted**
