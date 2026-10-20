@@ -109,6 +109,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
 - (**Optional, I haven't installed**) [Markedit](https://github.com/MarkEdit-app/MarkEdit) - `brew install markedit`
+- (**Optional, I haven't installed**) [Brainless](https://github.com/austin17022/brainless) - Reverse engineering of Typeless
 - (**Optional, I haven't installed**) [Numi](https://numi.app/)
 - (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional, I haven't installed**) [Otter](https://otter.ai/integrations/desktop)
@@ -193,6 +194,7 @@ Software that needed to be installed
 - (**optional, i haven't installed, not suggested to use**) [SteerMouse](https://plentycom.jp/en/steermouse/) - Can't open after allowing accessibility control, so this app can't be used, have bugs
 - (**Optional, I haven't installed, not suggested to use**) [Peek](https://justpeek.app/peek/download) - Have major bugs
 - (**Optiona, I haven't installed, not suggested to use**) [DeepL](https://www.deepl.com/en/macos-app) - Instant translator, can't translate simplified chinese to traditional chinese, translate simplified chinese to simplified chinese (no change at all)
+- (**Optiona, I haven't installed, not suggested to use**) [Use.fo](https://www.use.fo/download) - Login fetch error, but it can only use after login
 - (**Optional, I haven't installed, can't download anymore**) [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT browser, **OpenAI don't maintain anymore**
 - (**Optional, I haven't installed, can't download anymore**) [Final Cut Pro](https://lucidgen.com/en/how-to-download-final-cut-pro-for-free/) - Video editor, **install link is deleted**
 - (**Optional, I haven't installed, can't download anymore**) [Logic Pro](https://lucidgen.com/en/how-to-download-logic-pro-for-free/) - Musicial editor, **install link is deleted**
