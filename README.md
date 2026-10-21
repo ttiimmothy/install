@@ -107,6 +107,7 @@ Software that needed to be installed
 - (**Optional**) [AltTab](https://alt-tab.app/download)
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
+- (**Optional**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
 - (**Optional, I haven't installed**) [Exporter](https://apps.apple.com/us/app/exporter/id1099120373) - Export notes in Apple Notes to markdown
@@ -116,7 +117,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Graker](https://graker.fehey.com/) - Grammar checking and translation, need to connect to LLM provider API
 - (**Optional, I haven't installed**) [Otter](https://otter.ai/integrations/desktop)
 - (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
-- (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
 - (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest, need subscribe payment after trial period, sometimes pop up window to remind to buy license after trial
 - (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
