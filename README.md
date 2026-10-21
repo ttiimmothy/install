@@ -93,6 +93,7 @@ Software that needed to be installed
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional**) [Typeless](https://www.typeless.com/congratulations-mac)
 - (**Optional**) [Aqua Voice](https://aquavoice.com/download)
+- (**Optional**) [Superwhisper](https://superwhisper.com/)
 - (**Optional**) [Brave](https://brave.com/)
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [Tinycast](https://tinycast.dev/)
