@@ -119,8 +119,10 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Heyclicky](https://www.heyclicky.com/) - Notch with user interactions on all the windows in the computer
 - (**Optional, I haven't installed**) [ItsyCal](https://mowglii.com/itsycal/)
 - (**Optional, I haven't installed**) [Lookaway](https://lookaway.com/download/) - Tell you to rest, need subscribe payment after trial period, sometimes pop up window to remind to buy license after trial
-- (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw`
+- (**Optional, I haven't installed**) [Thaw](https://github.com/thaw-app/Thaw) - Ice latest version, `brew install thaw@beta`
 - (**Optional, I haven't installed**) [Ice](https://icemenubar.app/) - Menu bar customization, hide the icons in menu bar
+- (**Optional, I haven't installed**) [Hidden Bar](https://github.com/dwarvesf/hidden)
+- (**Optional, I haven't installed**) [Brow](https://brow-app.com/)
 - (**Optional, I haven't installed**) [Coucou](https://github.com/louis-cfm/coucou) - Notch
 - (**Optional, I haven't installed**) [Workcat](https://workcat.app/en/) - Part of **drifty**
 - (**Optional, I haven't installed**) [Drify](https://drifty.so/download/) - Focus app
