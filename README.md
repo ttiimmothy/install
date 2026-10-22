@@ -95,6 +95,7 @@ Software that needed to be installed
 - (**Optional**) [Aqua Voice](https://aquavoice.com/download)
 - (**Optional**) [Superwhisper](https://superwhisper.com/)
 - (**Optional**) [Brave](https://brave.com/)
+- (**Optional**) [Firefox](https://www.firefox.com/) - From Mozilla
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [Tinycast](https://tinycast.dev/)
 - (**Optional**) [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - `brew install hammerspoon`
@@ -174,12 +175,13 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Focus](https://heyfocus.com/download/)
 - (**Optional, I haven't installed**) [Replacicon](https://replacicon.app/) - Change app icon, need subscribe payment
 - (**Optional, I haven't installed**) [Mediamate](https://github.com/Wouter01/MediaMate-Releases/releases) - Media control and media new ui
-- (**Optional, I haven't installed**) [Notomo](https://notomo.app/) - Quick access and AI features for Apple notes
+- (**Optional, I haven't installed**) [Thunderbird](https://www.thunderbird.net/) - From Mozilla
 - (**Optional, I haven't installed**) [Microsoft Word](https://lucidgen.com/en/how-to-download-microsoft-office-on-mac/)
 - (**Optional, I haven't installed**) [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - (**Optional, I haven't installed**) [Microsoft Edge](https://www.microsoft.com/en-us/edge?ep=198&form=MA13L7&es=40)
+- (**Optional, I haven't installed**) [Notomo](https://notomo.app/) - Quick access and AI features for Apple notes
 - (**Optional, I haven't installed**) [Glyf](https://glyf.molovo.co/)
 - (**Optional, I haven't installed**) [Sharee](https://www.sharee.app/)
 - (**Optional, I haven't installed**) [Soduto](https://soduto.com/)
