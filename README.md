@@ -98,6 +98,7 @@ Software that needed to be installed
 - (**Optional**) [Firefox](https://www.firefox.com/) - From Mozilla
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [Tinycast](https://tinycast.dev/)
+- (**Optional**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
 - (**Optional**) [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - `brew install hammerspoon`
 - (**Optional**) [Fantastical](https://hub.flexibits.com/welcome) - Calendar
 - (**Optional**) [Tailscale](https://tailscale.com/download)
@@ -142,7 +143,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Bitwarden](https://bitwarden.com/download/#downloads-desktop) - 2FA, password manager
 - (**Optional, I haven't installed**) [Cooldown](https://goodsnooze.gumroad.com/l/cooldown)
 - (**Optional, I haven't installed**) [Audio Hijack](https://rogueamoeba.com/audiohijack/)
-- (**Optional, I haven't installed**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
 - (**Optional, I haven't installed**) [LinearMouse](https://linearmouse.app/)
 - (**Optional, I haven't installed**) [Mos](https://mos.caldis.me/)
 - (**Optional, I haven't installed**) [Middle click](https://github.com/artginzburg/MiddleClick-Sonoma) - Replacement of trackpad for mouse middle click
