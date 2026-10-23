@@ -109,6 +109,7 @@ Software that needed to be installed
 - (**Optional**) [AltTab](https://alt-tab.app/download)
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
+- (**Optional**) [Tinyowl](https://tinyowl.app/) - Compress files
 - (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
