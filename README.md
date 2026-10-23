@@ -137,6 +137,7 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
 - (**Optional, I haven't installed**) [Helium](https://helium.computer/) - Browser
+- (**Optional, I haven't installed**) [Min](https://minbrowser.org/)
 - (**Optional, I haven't installed**) [Vivaldi](https://vivaldi.com/)
 - (**Optional, I haven't installed**) [Crest](https://crestbrowser.com/) - Style like Arc
 - (**Optional, I haven't installed**) [Adobe Acrobat Reader](https://get.adobe.com/reader/)
