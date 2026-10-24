@@ -95,6 +95,7 @@ Software that needed to be installed
 - (**Optional**) [Superwhisper](https://superwhisper.com/)
 - (**Optional**) [Brave](https://brave.com/)
 - (**Optional**) [Firefox](https://www.firefox.com/) - From Mozilla
+- (**Optional**) [Helium](https://helium.computer/download) - Browser
 - (**Optional**) [Keyboard Clean Tool](https://folivora.ai/keyboardcleantool) - Lock keyboard when cleaning the keyboard
 - (**Optional**) [Tinycast](https://tinycast.dev/)
 - (**Optional**) [Alfred](https://www.alfredapp.com/) - Spotlight replacement
@@ -136,7 +137,6 @@ Software that needed to be installed
 - (**Optional, I haven't installed**) [Zen browser](https://zen-browser.app/) - Firefox version of Arc
 - (**Optional, I haven't installed**) [Chromium](https://dev.to/pixelrena/installing-chromium-on-mac-apple-m2-pro-tutorial-4i4i)
 - (**Optional, I haven't installed**) [Google Chrome](https://www.google.com/intl/en_ca/chrome/)
-- (**Optional, I haven't installed**) [Helium](https://helium.computer/download) - Browser
 - (**Optional, I haven't installed**) [Min](https://minbrowser.org/)
 - (**Optional, I haven't installed**) [Vivaldi](https://vivaldi.com/)
 - (**Optional, I haven't installed**) [Crest](https://crestbrowser.com/) - Style like Arc
