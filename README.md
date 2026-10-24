@@ -88,7 +88,6 @@ Software that needed to be installed
 - (**Optional**) [Colorslurp](https://apps.apple.com/us/app/colorslurp/id1287239339)
 - (**Optional**) [Pika](https://superhighfives.com/pika)
 - (**Optional**) [Dropbox](https://www.dropbox.com/install)
-- (**Optional**) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 - (**Optional**) [Localsend](https://localsend.org/download)
 - (**Optional**) [Wispr Flow](https://wisprflow.ai/downloads) - AI recorder for meetings
 - (**Optional**) [Typeless](https://www.typeless.com/congratulations-mac)
@@ -110,6 +109,7 @@ Software that needed to be installed
 - (**Optional**) [Stats](https://mac-stats.com/)
 - (**Optional**) [Sip](https://sipapp.io/downloading/) - Color picker, need subscribe payment after trial
 - (**Optional**) [Tinyowl](https://tinyowl.app/) - Compress files
+- (**Optional, I haven't installed**) [Google Drive](https://ipv4.google.com/intl/en_zm/drive/download/)
 - (**Optional, I haven't installed**) [Droppy](https://getdroppy.app/) - Notch, need subscribe payment
 - (**Optional, I haven't installed**) [Pastebot](https://tapbots.com/pastebot/)
 - (**Optional, I haven't installed**) [Screen Studio](https://screen.studio/download) - Recording, need subscribe payment ($9/month)
